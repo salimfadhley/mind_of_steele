@@ -18,13 +18,32 @@ Please proofread the document as follows:
 * Please provide feedback one item at a time.
 * Please always tell me the link number.
 
+
+List of graphics we need:
+
+* Steee
+* Vobes
+* Richard Vobes
+* Generic car
+* Generic fridge
+* A fridge car / car fridge
+* Paypall Honey Sponorship
+* Zim Tech Guy's YT page
+* Zim Tech Guy's YT subscriber count
+* Elon Musk, god emperor
+* Emperor on the throne, bones
+
+
 ---
 Mind of Steele 106
 ===
 
+
+
+
 Link 1: Everybody I feature on mind of steele is a scammer. They all scheming lying grifters. They are all con-artists who enrich themselves by selling false dreams and implausible fears. 
 
-When we think of fear scammers, we naturally think of Mark Steele. He tells a scary story, and then promises to fix a problem that doesn't really exist, if only you subscribe to his organisation. 
+When we think of fear scammers, we naturally think of Mark Steele. He tells a scary story, and then promises to fix a non-existent problem, if only you subscribe or donate to his organisation. 
 
 Richard Vobes' business model is all about taking money to feature charlatans, con-men and whackaloons on his channel. The Richard Vobes show is all about monetising other people's gullibility. It turns out that other scammers will pay to access an audience of under-educated nitwits who are easily separated from their cash.
 
@@ -38,7 +57,7 @@ And to make this even more painful, it's a modern spin on a scam that's as old a
 
 > Clip: What if I told you that everything you know about energy is about to change? Imagine never having to stop for gas again. Never having to charge your car. Never having to worry about fuel prices. Sounds impossible, right? That's exactly what they said about Tesla.
 
-Link 2: In the public imagination, the inventor and electronic engineer, Nikola Tesla is remembered as some kind of shamanic genius. He's considered a spiritual folk hero whose almost mystical discoveries transcended the known laws of physics. According to legend, he invented devices so radically ahead of their time, our modern science has yet to catch up.
+Link 2: In the popular imagination, the inventor and electronic engineer, Nikola Tesla is remembered as some kind of shamanic genius. He's considered a spiritual folk hero whose almost mystical discoveries transcended the known laws of physics. According to legend, he invented devices so radically ahead of their time, our modern science has yet to catch up.
 
 And according to this mythical version of his life: Tesla had invented anz energy transmission technology that would have rendered fossil fuels irrelevant. We would need no more power stations. No batteries, just limitless, energy plucked from thin air.
 
@@ -68,15 +87,15 @@ When this technology is revealed we are going to have to start a new calendar. O
 
 > Clip: Meet Maxwell Chicombutso, a self-taught inventor from Zimbabwe who claimed to have invented a device that lets you drive your car or power your house without ever needing to visit the gas station or use conventional electricity.
 
-Link 4: If you are watching this video as part of a retrospective about YouTubers who correctly predicted the future, Hi my name is Raynard Wilson. 
+Link 4: If you are watching this video as part of a retrospective about YouTubers who correctly predicted the future, Hi my name is Raynard Wilson.
 
 I'm a creator of a mildly humorous YouTube show called Mind of Steele. The show was named after another spiritual folk-hero shamanic genius; A man called Mark Steele who was widely mocked in his time for his claim that 5G was a deadly energy weapon.
 
 -- Steele insert
 
-Link 5: but his claims were eventually proved true in the Gateshead 5G massacre of 2027, when rogue 5G transmitters obliterated the whole of Tyneside. How wrong we all were not to believe him. 
+Link 5: but Mark Steele's claims were eventually proved true in the Gateshead 5G massacre of 2027, when rogue 5G transmitters obliterated the whole of Tyneside. How wrong we all were not to believe him. 
 
-I'm making this video on Maxwell the 21st in the Month of Chicombutso in approximately the year -1 of what you probably call the dark age of petroleum before the glorious assention of the Chicombutso Era. 
+I'm making this video on Maxwell Chicombutso the 21st in the Month of Chicombutso in approximately the year -1 of what you probably call the dark age of petroleum before the glorious assention of the Chicombutso Era. 
 
 This was a dark and barbaric time. A time before the golden age of free energy. A time when few people knew of the man who would change the world. 
 
@@ -92,9 +111,9 @@ Link 6: Of course, some people watching this demonstration may have been skeptic
 
 He wasn’t even the first African man to make such a claim. Nor was he the first to appear on Mind of Steele— that honor goes to Sacha Stone, who you may remember is promising to power his Kentucky micronation entirely on ‘Zero Point Energy’. 
 
-It's often said that the hardest part of making a "free energy" machine is working out where to hide the battery. Sacha Stone didn't even bother - he just plugged his into a wall socket. At least Maxwell Chicombutso isn't making that mistake!
+It's often said that the hardest part of making a "free energy" machine is working out where to hide the battery. Sacha Stone didn't even bother - he just had his assistant plug it into a power socket. At least Maxwell Chicombutso isn't making that mistake!
 
-In fact, he's doing the exact opposite: He's plugging his car into a fridge: 
+In fact, he's doing the exact opposite: The socket is in his car, and He's plugging in a fridge: 
 
 > Clip: This is a generator. I think if you can go to the fridge you can see. It is going to plug in and you'll see that the fridge is going to be powered by a car. Like I said, you can buy a car. You don't need to have a generator to home. You use your car.
 
@@ -141,11 +160,11 @@ The odd thing about this device is that it's inventor claims that it is receivin
 
 > Clip: You see, Chicombutso isn't just building one car. He has created something much more bigger, an energy system that could power any vehicle around the world. And he is really to partner with major auto manufacturers to transform the entire industry.
 
-Link 11: And why aren't the world's major car manufacturers queuing up to partner with Chicombutso? Why is he only selling this technology direct to consumer... via a series of Zimbabwean YouTube influencers? 
+Link 11: And why aren't the world's major car manufacturers queuing up to partner with Chicombutso? Why is he only selling this technology direct to consumers? And why is he marketing it via a series of Zimbabwean YouTube influencers? 
 
-People like this guy, Zim Tech Guy, who normally does technology reviews, but in recent weeks seems to have hard-pivoted to covering Maxwell Chicombutso's... inventions.
+I think it's because only the best and most highly coveted products are marketed this way:
 
-I think it's because only the best and most highly coveted products are sold this way. 
+Influencers like this guy, Zim Tech Guy, who normally does technology reviews, but in recent weeks seems to have hard-pivoted to covering Maxwell Chicombutso's... inventions.
 
 There's no class of people more highly respected; less easily corrupted than social media influencers. 
 
@@ -157,19 +176,21 @@ After all, this isn't about money - it's about changing the world:
 
 > Clip: 10,000 United States dollars. That's the starting price of Markzoo Jikumbutsu's Microsonic energy-powered devices for vehicles
 
-Link 12: Chicombutso isn't just the second coming of Nikola Tesla - he's the reincarnation of Elon Musk.
+Link 12: Chicombutso isn’t just the second coming of Nikola Tesla—he’s the reincarnation of Elon Musk.
 
-Now I know some of you will be wanting to urgently correct me:
+Now, I know what you’re thinking: “But Raynard, how can Elon Musk be reincarnated as Chicombutso when he’s still alive?”
 
-"But Raynard", you are thinking, "How can Elon Musk have been reincarnated as Chicombutso when he is still alive" - please stop thinking in such linear terms. 
+You’re thinking too small. If reincarnation is possible, then why not time travel? And if time travel is possible, then why not an affordable over-unity device that lets you drive forever without fuel?
 
-If reincarnation is possible, then why not also time travel? And if time-travel and reincarnation are both possible, then why not the possibility of an affordable over-unity device capable of producing enough energy to accelerate a vehicle to 200kph, without consuming any fuel? 
+At the twilight of his reign, when Musk’s golden throne can no longer sustain his mortal form, he will refuse to ascend to the Immaterium. His work will remain unfinished. His great promise undelivered.
 
-I'd like to think that at the end of his life, Elon Musk, the enlightened spiritual folk-hero shamanic genius... He realised that his life's work was incomplete. He was not yet ready to ascend to immaterium for there was one promise as yet unfulfilled. 
+I’m speaking, of course, about Tesla’s “full self-driving” feature. The one Musk promised in 2018, claimed was two years away, and yet continued to sell for decades without ever delivering anything.
 
-He hadn't yet delivered the Tesla full-self drive feature which he promised in 2018, and yet continued to sell to gullible Tesla owners for decades without actually delivering anything.
+This failure will weigh heavily on his soul. And so, in his final moments, he will reach through the Warp, past the veil of time itself, and project his consciousness backward—into the form of the young Maxwell Chicombutso.
 
-This omission weighed heavily on his soul, so when the golden throne was no longer able to sustain his mortal form, he chose to project his consciousness back in time and took on the form of the young Maxwell Chicombutso, the young African genius.
+It’s the ultimate plot twist: Musk, tech messiah and self-proclaimed savior of Mars, reborn not as the emperor of a cyberpunk utopia, but as Zimbabwe’s new prophet of free energy. A legend rewritten. A new messiah forged.
+
+Praise be to the Omnissiah.  
 
 > Changed order: Clip: One final check of the battery voltage revealed a shocking result. Not only had the machine outlasted the expected battery life, but the batteries were still fully charged. This proved that the device was being powered from an unknown energy source.
 
@@ -191,7 +212,7 @@ If that endorsement still isn't enough for you, consider this absolute stonker o
 
 > Clip: The elusive inventor finally made an appearance at the state house where he met Zimbabwe president, Edi Mungagwa, allaying all the fears that he was dead.
 
-Link 15: I'm going to assume that nobody presumed the President of Zimbabwe was dead; I think he was referring to Maxwell Chicombutso, I didn't know his life was in peril. 
+Link 15a: I'm going to assume that nobody presumed the President of Zimbabwe was dead; I think he was referring to Maxwell Chicombutso, I didn't know his life was in peril. 
 
 But perhaps this is a hint of some other miracle... was Maxwell Chicombutso resurrected?
 
@@ -199,35 +220,39 @@ No wonder the people of Harare have been celebrating!
 
 -- reuse the clip from before of people partying.
 
-But not every Zimbabwean is convinced. Some ungrateful wretches are apparently not hosting street parties in honor of Zimbabwe's resurrected savior, and the glorious epoch to come: 
+15b: But not every Zimbabwean is celebrating. Some are refusing to join the street party. 
+
+These ungrateful wretches are apparently not convinced by Maxwell's claims. They refuse to honor of Zimbabwe's resurrected savior. They don't believe in the glorious epoch to come: 
 
 > Clip: Maxwell claimed he developed the car in partnership with the Chinese automaker, Ka'i. However, after checking their official website and social media accounts, I found no mention of any collaboration with him.
 
-Link 16: Funny, that. But perhaps they are just keeping quiet to maximize the surprise when this product launches. 
-
-But he's right: There isn't a single mention of Maxwell or his device on the car-maker's website. 
+Link 16: He's right: There isn't a single mention of Maxwell or his device on the car-maker's website. 
 
 And the free energy motorcycle that Maxwell claimed to have invented... it looks suspiciously like this motorcycle I found on AliExpress. 
 
-And while we are at it, no independent verification of Maxwell Chicombutso's 
+And while we are at it, no independent verification of Maxwell Chicombutso's inventions.
 
 Anyway, what about all of Maxwell's other products?
 
 > Clip: I did a quick reverse image search and found an exact match being sold on Amazon under a different name.
 
-Link 17: That too? The device Chicumbutso was showing off earlier - it's some kind of solar-powered battery pack. Also, available on AliExpress. 
+Link 17: That too? The device Chicumbutso was showing off earlier - it's some kind of solar-powered battery pack. Also, available on AliExpress. Produced by a Chinese company that is completely unconnected to Maxwell's business.
 
-Hmm, but what about his invention? You know the thing that powers the car. Surely that's real - after all he has a patent for it?
+Are all of Maxwell's inventions from AliExpress?
+
+Surely not his big invention? You know the thing that powers the car. The thing the President honored him for. The thing that the anonymous american scientist and the vice chancellor of the Harare institute of technology just endorsed.
+
+Surely that's real? Surely Zim Tech Guy wouldn't lie to us about that?
+
+After all... patents don't lie:
 
 > Clip: **Maxwell also claimed that he tried to file a patent for his invention, but it was denied. If Maxwell's technology was truly groundbreaking, why was he denied a patent? According to him, it was denied because it defies the laws of physics.
 
-Link 18: It's like the forces of evil are allied against the noble Maxwell Chicombutso. This brave inventor who is being denied the opportunity to protect his invention.
+Link 18: The forces of evil are allied against the noble Maxwell Chicombutso. This brave inventor who is being denied the opportunity to protect his invention.
 
-Just like Nikola Tesla. Is he being silenced by shadowy corporate interests... struck down by bureaucratic tyranny, or possibly the Chaos Space Marines? 
+The world's oligarchs conspiring to kill the amazing technology to protect big oil, big nuclear, big solar, big hydroelectric and big wind.
 
-Are the world's oligarchs conspiring to kill the amazing technology to protect big oil, nuclear, solar, hydroelectric and wind? 
-
-Or is it that the world's patent offices do not wish to be flooded with preposterous submissions for implausible devices.
+Just like Nikola Tesla. Is he being silenced by shadowy corporate interests... struck down by bureaucratic tyranny, or possibly the Chaos Space Marines?
 
 But how is Maxwell going to protect this brilliant invention without the protection of the United States Patent Office? 
 
@@ -239,12 +264,32 @@ If this were real what would stop the world's experimental physicists deducing i
 
 > Clip: And it is with a self-destructive technology. One of the 150 wires on this car, if you try to assemble five of them, we will classify. You destroy the microsonic device, both of the software and the hardware. So we put a small amount of it to detonate it, but that cannot harm anyone. But if you just try to deploy it, you deploy.
 
-Link 20: A bomb: Because nothing screams cutting-edge engineering quite like a self-destruct feature in your "free energy" car.
+Link 20: A bomb: Because nothing screams cutting-edge engineering quite like a "free energy" car with a self-destruct. 
 
-It’s Pimp My Ride: Taliban Edition, where instead of giving your ride neon underglow and a fish tank in the trunk, they install a failsafe that detonates the moment you pop the hood.
+It’s Pimp My Ride: Taliban Edition, where instead of giving your ride neon underglow and a fish tank in the trunk, they install a failsafe explosive that detonates the moment you pop the hood.
 
 No oil changes. No DIY repairs. Just raw excitement… because every drive might be your last.
 
 Yo dawg, I heard you like bombs—so we put a bomb inside your bomb so you can detonate while you detonate.
 
 Xzbit would be so proud of Maxwell Chicombutso.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
