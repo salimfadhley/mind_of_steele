@@ -28,5 +28,7 @@ Standard Proof Reading Instructions
   * React in a funny way to the previous clip
   * Foreshadow the next clip in a thoughtful and interesting way
   * Not be repetitive
-  * Provide context that allows the rest of the show to make more sense to a user who may be unfamiliar with the personalities and issuies.
+  * Provide context that allows the rest of the show to make more sense to a user who may be unfamiliar with the personalities and issues.
+  * Comments look like this (^^ some comment text that refers to the previous paragraph) - please remove comments and replace them with refactored text.
+  * Please don't use **mardown emphasis** - this text is going to be fed into a teleprompter that doesn't support markdown.
 ---
