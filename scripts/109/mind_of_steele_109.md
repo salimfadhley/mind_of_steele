@@ -21,6 +21,8 @@ I can't prove a negative, but I can demonstrate that Maxwell Chikumbutso's claim
 
 It looks like a scam. It waddles like a scam. It even defecates like a scam.
 
+It's a scam.
+
 Or a duck.
 
 ### Link 2: Genre Markers in Abstract
@@ -31,28 +33,37 @@ Consider this classic fantasy narrative: A young hero of humble origins receives
 
 You've seen it time and again: It's Harry Potter, it's Luke Skywalker, it's Neo from The Matrix. These stories resonate because they follow a familiar formula. They are the genre markers of epic fantasy.
 
-Two unlikely individuals meet in a quirky, unexpected: way—a classic "meet-cute." They clash, misunderstand each other, yet an undeniable spark draws them together. Despite obstacles and humorous mishaps, they ultimately find love and happiness.
+Here's another genre:
+
+Two unlikely individuals meet in a quirky, unexpected: way—a classic "meet-cute." They clash, misunderstand each other, yet circumstances and an undeniable spark draw them together. Despite obstacles and humorous mishaps, they ultimately find love and happiness.
+
 It’s *When Harry Met Sally*. It’s *You’ve Got Mail*. It’s *Notting Hill*.
 
-That's every romantic comedy.
+It's every romantic comedy.
 
 We recognize what genre of fiction we are reading because every genre has its tropes. And when enough of these tropes are present, they form a pattern—a structure that tells us what kind of story we are experiencing.
 
-That’s what genre markers are. They’re the signposts that tell us whether we’re watching a fantasy, a romantic comedy, hard-boiled detective thriller or a scam. And once you know the markers, you don’t need to analyze the details—you already know how the story ends.
+That’s what genre markers are. They’re the signposts that tell us whether we’re watching a fantasy, a romantic comedy, hard-boiled detective thriller or a scam. And once you know the markers, you don’t need to analyze the details—you already know what kind of story it is and how it ends.
 
 ### Link 3: Free Energy Scam Genre Markers
 
 Nearly 20 years ago, an Irish company called Steorn stunned the public with its bold claims of a magnet-powered free energy device called Orbo.
 
-Steorn promised nothing less than a revolution in energy—a machine that could generate limitless power from magnetic fields, violating the laws of thermodynamics. They claimed that this breakthrough would change the world, eliminating the need for fossil fuels and providing free electricity to all.
+Steorn promised nothing less than a revolution in energy. Orbo could generate limitless power from magnetic fields. Dit it violate the laws of thermodynamics? Yes, but nevertheless, they claimed, it worked.
 
-To bolster their credibility, Steorn took out full-page ads in The Economist, inviting the world's best scientists to validate their discovery. They even attempted to publicly demonstrate the device in 2007 at the Kinetica Museum in London. But when the moment came… nothing worked.
+And if true, this breakthrough would change the world, eliminating the need for fossil fuels and providing free electricity to all.
 
-Their so-called breakthrough never produced any verifiable results. No independent scientist ever confirmed their claims. And despite years of promises, new iterations, and investor funding, Steorn quietly shut down in 2016—without ever delivering a working product.
+To bolster their credibility, Steorn took out full-page ads in The Economist, inviting the world's best scientists to validate their discovery. In 2007, they attempted to stage a demonstration at the Kinetica Museum. 
 
-It was a classic free energy scam. And just like fantasy heroes and rom-com protagonists follow predictable paths, free energy scams have their own well-worn tropes. Once you recognize them, you can spot these scams from a mile away.
+At the time, I was workiing as an engineer nearby, so I got to see this fiasco first hand. The Steorn team was confident, even cocky. They had the world's attention.
 
-Let's have a look at this scam, identify it's elements and see if we can apply them to Maxwell Chikumbutso's story.
+But when the moment came… nothing worked. Apparently, technical glitches prevented the demonstration from taking place.
+
+Their so-called breakthrough never produced any verifiable results. No independent scientist ever confirmed their claims. And despite years of promises, new iterations, and investor funding, Steorn quietly shut down in 2016—without ever delivering a thing.
+
+It was a classic free energy scam. And just like fantasy heroes and rom-com protagonists follow predictable paths, free energy scams have their own well-worn tropes. Once you know them, you can't avoid seeing them.
+
+Let's take this scam apart and see how it works:
 
 -- Michael from Steorn
    Caption: "The reluctant inventor"
@@ -73,30 +84,26 @@ It works.
 
 And if it works, just imagine how it could change everybody's lives. Imagine a world without the pollution and corruption of fossil fuels. 
 
-And imagine they do: They paint a rich and vivid picture of the era's consumer technology of the era transformed by limitless free power. 
+And imagine they do: They paint a rich and vivid picture devices tranformed by limitless power.
 
 -- Steorn Xbox controller, phone clip
    Caption: "A vision of the future?"
 
-This is tantilizingly useful technology, apparently just around the corner... but not yet because our inventors still need to perfect it. 
-
-This technology apparently works in the lab, but isn't yet ready for the consumer. 
-
-They just need a little more funding. Just a few more months and it will be ready. "We will have somthing truly wonderful", they promise. 
+This technology apparently works in the lab, but isn't yet ready for the consumer. They just need a little more funding. Just a few more months and it will be ready. "We will have something truly wonderful," they assure us. 
 
 -- Steorn promise clip
    Caption: "The promise of free energy"
 
 But not everyone is impressed by the possibility of unlimited free energy.
 
-Scientists, of course, remain skeptical. They insist on things like ‘independent verification’ and a ‘plausible mechanism’—but our inventor is too to close to need to bother with these. 
+Scientists, of course, remain skeptical. They insist on things like ‘independent verification’ and a ‘plausible mechanism’—but our inventor already knows his invention works. Why waste time with these formalities? 
 
-They claim that it can't possibly be real. It is against their 'laws', but perhaps their laws are wrong, and who are they to define the laws? Perhaps their laws don't matter in this new era of infinite free energy?
+The scientists who claim it can't possibly be real... they say it's against their 'laws', but perhaps their laws are wrong, and who are they to define the laws? Perhaps their laws don't matter in this new era of infinite free energy?
 
--- Steorn complaining scientists
+-- Steorn complaining scientist
    Caption: "Defying known science"
 
-Our inventor should be celebrated as a hero; Instead, dark forces conspire against him. Big Oil wants to bury him along with his discovery. The government wants to steal it. The academic world refuses to acknowledge it because they’re afraid of what it means for their obsolete dogma.
+Our inventor should be celebrated as a hero; Instead, dark forces conspire against him. Big Oil wants to bury him along with his discovery. The government wants to steal it. The academic world refuses to acknowledge it because they’re afraid to rip up their obsolete textbooks.
 
 That's why this researcher cannot trust anybody; His secret is too valuable. That means the world's universities will have to wait until this technology is perfected before they get to see it.  
 
@@ -286,6 +293,8 @@ They’re perfect—which makes them completely unbelievable.
 A car that runs forever, a TV that powers itself, a device that generates infinite energy with no trade-offs? These aren’t interesting ideas. They’re lazy plot devices, the kind you’d expect from the first draft of a bad science fiction novel.
 
 Maxwell isn’t just selling a scam. He’s selling a dull, unimaginative scam.
+  
+But beyond being boring, free energy scammers are also hilariously irrational in their proposed applications. Take Sacha Stone, who claims his free energy device will be used to grow fruit, or Maxwell himself, who envisions putting his free energy generator in a car. In a real breakthrough, an inventor wouldn’t announce his discovery with trivial ideas—instead, he’d quietly harness it to dominate energy-intensive markets. It’s like bad science fiction, where authors, stuck in their own time, fail to imagine any transformative use for a truly revolutionary technology.
 
 ### Link 11: Conclusion – The Final Genre Marker
  
@@ -293,36 +302,23 @@ So, what have we learned?
  
 We didn’t need to debunk Maxwell Chikumbutso’s claims. We didn’t need to analyze his technology. We didn’t need to travel to Zimbabwe to investigate whether it was real. Because the nature of this scam was obvious from the beginning.  
  
-It wasn't becauise of my insight into the physics. Not because of my decades working as an engineer. It was because of storytelling.  
+It wasn't because of my insight into the physics. Not because of my decades working as an engineer. It because I know how stories work.  
  
-A free energy scam isn’t a scientific breakthrough—it’s a genre of fiction.  Anybody sufficiently familar with the genre can spot it a mile away.
- 
-The story never changes. The names differ, the locations vary, and the details get a contemporary face-lift—but the genre markers remain exactly the same.
+A free energy scam isn’t a scientific breakthrough—it’s a genre of fiction.  Anybody sufficiently familiar with the genre can spot it a mile away. Because the story never changes. The names differ, the locations vary, and the details get a contemporary face-lift—but the genre markers are always identical.
  
 We saw this with Steorn. We saw it with Sacha Stone. And now, we’re seeing it again with Maxwell Chikumbutso. 
 
-The faces might vary but the con never changes.
+The closer you look, the more similarities you see:
 
-And let’s not forget the most important genre marker of all—the mad scientist trope.  
-Whether it’s Victor Frankenstein, Doc Brown, or Maxwell Chikumbutso, the lone genius inventor is an essential part of the scam. They must stand outside the scientific establishment, claim to be misunderstood, and offer a radical, world-changing technology that defies conventional science.  
+The lone genius inventor is an essential part of the scam. They must stand outside the scientific establishment, claim to be misunderstood, and offer a radical, world-changing technology that defies conventional science. 
 
-This trope is inseparable from the fictional invention narrative. The invention appears fully formed—bypassing the slow, iterative process of real innovation—and any criticism is quickly dismissed as the work of a jealous, corrupt establishment. This self-sealing, tautological loop reinforces that no matter the details, the scam's genre markers remain unchanging and instantly recognizable.
+Who else could pluck an invention from thin air, who slse would be worthy of divine revelation? Mad inventions can only come from mad inventors.
+
+And the critics? The industrialists who want him dead, and the scietists who dismiss his work? Nothing but a jealous, corrupt establishment. This self-sealing, tautological loop reinforces that no matter the details, the scam's genre markers remain unchanging and instantly recognizable.
  
 That’s why we don’t have to take it seriously. That’s why we don’t have to debunk every fake invention. Because we already know how this story ends.  
  
-It’s the same way it ended for Steorn. For Newman. For every free energy grift that came before. A big promise, a lot of buzz, and then… nothing.  
+It’s the same way it ended for Steorn. For Sacha Stone. For every free energy grift that came before. A big promise, a wave of hype, and then… nothing.  
  
-Because this isn’t science.
-
-It’s fiction—a genre with its own set of predictable tropes.
-
-When you know the story, you know the ending: a big promise, a lot of buzz, and then… nothing.
-
-Maxwell’s scam follows the same well-worn script as every free energy grift: a big promise, a lot of buzz, and then nothing. It’s a tale designed to make people believe and to part with their money, crumbling the moment reality sets in.
-
-And that’s why, once you recognize the genre markers, the scam is obvious from the start.
-
-
-
-
+Because this isn’t science. It’s fiction—a genre with its own set of predictable tropes.
 
