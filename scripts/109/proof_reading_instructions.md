@@ -10,7 +10,7 @@ Standard Proof Reading Instructions
 * Please don't suggest alternative versions of the document, just point out errors in the text and explain the issues.
 * Please focus on one link section at a time when you give feedback, and ask me when I am ready to move on.
 * The script is intended as satire.
-* This is supposed to be a script that is read out. Please highlight sections that might be clumsy to pronounce.
+* This is supposed to be a script that is read67i out. Please highlight sections that might be clumsy to pronounce.
 * Aim for informal, spoken English.
 * Please provide feedback one item at a time.
 * Please always tell me the link number.

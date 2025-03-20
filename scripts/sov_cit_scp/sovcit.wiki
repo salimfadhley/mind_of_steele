@@ -1,0 +1,69 @@
+= SCP-XXXX - Extradimensional Jurisdictional Drift =
+
+'''Object Class:''' Euclid
+
+== Special Containment Procedures ==
+Information regarding SCP-XXXX is to be actively monitored and suppressed across all public and private communication channels. Foundation web crawlers are to identify and flag instances of SCP-XXXX-A, focusing on keywords and phrases commonly associated with the "sovereign citizen" movement, particularly those referencing alternate legal frameworks or laws of unknown origin. Individuals exhibiting advanced stages of SCP-XXXX-A infection are to be discretely monitored. Direct intervention is only authorized in cases where the infected individual poses a significant threat to themselves or others, or when their actions risk exposing SCP-XXXX to a wider population.
+
+In instances of containment, infected individuals are to be designated SCP-XXXX-B instances and subjected to psychological evaluation. Standard amnestic protocols (Class-A or higher, depending on the severity of infection) have shown limited efficacy in fully eradicating the belief in extradimensional legal systems. Prolonged cognitive behavioral therapy, focusing on grounding in established legal frameworks and reality testing, has shown some promise in mitigating the effects of SCP-XXXX-A.
+
+Foundation agents embedded within law enforcement agencies and legal systems are to be vigilant for the emergence of SCP-XXXX-B instances and to subtly guide legal proceedings away from the anomalous beliefs held by these individuals, minimizing disruption and preventing the spread of SCP-XXXX.
+
+== Description ==
+SCP-XXXX is a memetic hazard that manifests as a set of interconnected beliefs and behaviors, primarily associated with the "sovereign citizen" movement. While the surface-level manifestations often involve a rejection of governmental authority and a misunderstanding of existing legal frameworks, the core anomalous component lies in the infected individual's (designated SCP-XXXX-A) conviction in the existence and applicability of laws originating from an unknown source.
+
+Exposure to SCP-XXXX typically occurs through online content, literature, or direct interaction with other SCP-XXXX-A instances. The initial stages of infection often involve the adoption of common sovereign citizen rhetoric, such as the belief in "legal fiction personalities," invalidity of government identification, or applicability of obscure or misinterpreted historical legal concepts (e.g., Magna Carta).
+
+As SCP-XXXX-A infection progresses, individuals begin to articulate belief in complex, internally consistent yet demonstrably non-existent legal systems, often described as "True Law," "Cosmic Law," or "Divine Law," claimed to supersede laws of their current reality.
+
+Key characteristics of these anomalous legal systems include:
+* '''Hierarchical Structures:''' Celestial or cosmic entities acting as ultimate legal authorities.
+* '''Specific Terminology:''' Unique legal terms such as "living soul," "artificial person," and specific punctuation and capitalization as having legal significance.
+* '''Procedural Differences:''' Rituals or declarations claimed to exempt individuals from earthly laws, involving filing obscure documents or specific verbal pronouncements.
+* '''Moral Absolutism:''' Perceived inherent moral superiority over terrestrial legal systems.
+
+The origin and nature of these frameworks remain under investigation. Foundation researchers hypothesize that SCP-XXXX might originate from an alternate reality with different legal and societal structures.
+
+== Discovery ==
+The Foundation first encountered anomalous legal arguments in the mid-20th century. Early instances involved individuals claiming immunity from taxation based on idiosyncratic interpretations of obscure legal statutes. Later cases involved minor offenses, with individuals asserting non-existent legal frameworks.
+
+The emergence of groups such as the "Cosmic Law Society" in the 1960s, influenced by UFO culture, significantly accelerated SCP-XXXX's spread. The internet era facilitated wider dissemination of SCP-XXXX-related beliefs.
+
+Foundation linguistic analysis confirmed these frameworks as distinct, internally consistent, yet entirely fictitious.
+
+== Addendum XXXX-1: Incident Log - Michael Henry Furlong ==
+'''Date:''' 2025-03-18
+'''Location:''' Sefton Magistrate's Court, Merseyside, UK
+
+Foundation agents were alerted to anomalous court behavior involving Michael Henry Furlong (SCP-XXXX-B-08), who insisted on applying U.S. constitutional law in a UK court. Subject referenced outdated editions of ''Black's Law Dictionary'' and historical inaccuracies. Subject's associate, Philip [REDACTED], also exhibited SCP-XXXX-A infection. Court records inexplicably vanished afterward, suggesting SCP-XXXX can influence external records to reinforce delusional beliefs.
+
+== Addendum XXXX-2: Incident Log - Sovereign Pete ==
+'''Date:''' 2024-07-22
+'''Location:''' Wellington, New Zealand
+
+Peter Stone ("Sovereign Pete," SCP-XXXX-B-09) apprehended without valid license or registration, claiming exemption under "True Law." A "Cosmic Travelling Permit" materialized post-apprehension, anomalously granting unrestricted vehicular privileges galaxy-wide, indicating SCP-XXXX's anomalous physical manifestation capabilities. Subject transferred to Foundation custody.
+
+== Addendum XXXX-3: Incident Log - The Pro Se Litigant ==
+'''Date:''' 2024-09-12
+'''Location:''' ██████████████ County Courthouse, USA
+
+Peter Maxwell (SCP-XXXX-B-10), representing himself, rejected professional legal counsel, claiming "Moorish sovereign citizen" status without factual basis. Subject presented anomalous Moroccan passport manifesting after detainment without physical production methods. Psychological evaluation confirmed advanced SCP-XXXX-A infection, characterized by deep-seated jurisdictional denial.
+
+== Thematic Analysis ==
+Themes identified across SCP-XXXX incidents include:
+
+* '''Misplaced Authority and Jurisdiction:''' Belief in alternative jurisdictions irrespective of physical location.
+* '''Power of Belief and Self-Declaration:''' Personal ideologies perceived as capable of altering legal reality.
+* '''Information and Documentation Anomalies:''' Manifestation or alteration of documentation seamlessly supporting delusional beliefs.
+* '''Resistance to External Correction:''' Firm rejection of conventional legal frameworks despite contrary evidence.
+
+Common broader elements:
+* Conspiracy theories and distrust of institutions.
+* Misinterpretation of historical legal terms.
+* Extreme individual liberty emphasis.
+* Creation of pseudo-legal documents with meaningless seals/signatures.
+
+== Conclusion ==
+SCP-XXXX's true nature and origin remain under investigation. The concept of extradimensional frameworks offers a plausible but unconfirmed explanation. SCP-XXXX-infected individuals exhibit the ability to manifest anomalous documents, escalating containment complexity.
+
+Containment measures might inadvertently fuel belief spread and radicalization due to perceived persecution. Continued investigation into cognitive mechanisms and potential extradimensional origins is vital for effective containment.

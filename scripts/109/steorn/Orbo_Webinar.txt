@@ -1,0 +1,1459 @@
+
+
+ Hello everybody, this is our first webinar obviously, so hopefully this will be something that will be a periodic event, but I think what this is about tonight is a re-calibration about where Storn is, and I think it will take a little bit of history to understand where we've come from, to where we are.
+
+
+
+ I'd probably encourage it, normally I'd say when Sean is doing something like this, I'd say first in with questions, I might say tonight, when Sean goes through things, so hopefully you've come up with ends or your mobile phones so that you can ask questions, but just ask your first one, get your all your phones switched off from a noise perspective, but I'm saying at the end of it all, just take notes of your questions and we're here for as long as the Q&A will last.
+
+
+
+ That's as simple as that, so I'll hand it over to Sean. I think first of all we got a lot of questions during the week, we're going to ask anybody who is here, obviously to ask, if you're on the webinar and it's working, so first of all we'll try to type them into the chat box, we'll try to get through them. We've had questions about everything, from e-cigarettes to why is this thing, any relationship is a completely new thing and so on to what we started to develop. So I guess the first thing that we'll try to do is we just want to run through a little bit of the history, we're all sick and tired of it. I want to show you very briefly, watch one of these new Orbos, of your Orbobatries, and also to show you a very, in a very, very rudimentary way that they're made, so you can understand the whole logic process. I got to move products from e-cigarettes to power cubes to iPads and then wrap up a few questions.
+
+
+
+ I think that it is important because we're 12 years, there's a lot of you know, after this game, that's an awful long time.
+
+
+
+ We started with the 14 patterns, the pad patterns, that's what I want to have, I used to be tense though.
+
+
+
+ We started off this with a magnetic anomaly that you're all aware of, that we went out, we didn't understand it, and we got curious about it and we then began to treat it as a business, which is the point where we started to raise money and a lot of you guys would have joined us around that time.
+
+
+
+ We're not an R&D company, we're not scientists, we're engineers and product developers and so we looked at this and said, the way that we as a business can make money from this is to license it and the place to license it is mobile consumer electronics. We've been saying that consistently for 10 years and you're all sick and tired of hearing it. Again, I think it's important to retain a context in this, but in order to get value, in order to actually get a license agreement with anybody in the space, you've got a couple of prerequisites, you've got to actually demonstrate it operates, you've got to demonstrate it meets a specific requirement and then you're in a position to license, but if you want to license it, you also have to look at your own position and decide whether you want to be a licensee behind everything and be an unknown and discharge a couple of cents or a couple of bucks advice or not. We looked at this and said, we had a bunch of very smart people look at this and say, look, if you don't license this with a brand, then you might make money for a few years, but at the end, you will just get pushed aside.
+
+
+
+ So in order to kind of tick all these boxes and you're all well aware that we decided to get a brand in a public way and to use that to create a brand, but also to try and get a certain element of credibility, which is the whole jury process.
+
+
+
+ So again, just to go through a little bit of this, the jury process went on and on and on.
+
+
+
+ It was going nowhere from our perspective.
+
+
+
+ So what we decided to do was to kind of put it to them and go for what was a high risk
+
+
+
+ strategy in terms of publicly demonstrating it, which as we all know, didn't turn off. Subsequent to that, the jury turned around. And again, I don't want to restate this, but we need to be fairly technically correct. The jury said is that the evidence was insufficient for the size of the brand. We never said it didn't work or whatever. And again, there's no kind of bitter pills from us with respect to that. It didn't work out.
+
+
+
+ We then stuck our heads down and developed the next generation again at the time. We were working on permanent magnets and went to electromagnets.
+
+
+
+ As you're aware, we demoed that for three months or so in the waterways. And the truth is nobody was interested. At this point, we would consider it a technically successful demonstration in terms of demonstrating the technology, but a commercial disaster. Nobody was interested.
+
+
+
+ And we went on. So at that point, we began to look at this whole concept of just presenting this as a platform without a real physical product is probably not a great thing. It's not the way to go.
+
+
+
+ And obviously over the years, we began to get closer and closer towards actually being able to build this into a product that's not a simple task.
+
+
+
+ Subsequent to that, we started to work on the heat output, the excess heat output, which has spun out to heavy heat, as you're aware. During all of this, we ran out of money. Again, most of you were probably aware of this. And we did an agreement with basically the vast majority of shareholders, about 90%, who embodied themselves as a strong over trust.
+
+
+
+ And the agreement was very simple. We would rebalance the shareholding to a 50-50 arrangement. So 50% with people in the company and 50% with people who were paying for this venture now.
+
+
+
+ The other part of that agreement was obviously putting in place shareholder representatives, which exist to this day.
+
+
+
+ Once happy heat was spun out, and I'm not going to discuss happy heat here this evening because it's not my business. And I know that they'll probably do something similar, not to this in the future. We began to look back at what we had developed and say that we could fairly rapidly bring this into a format that would more supermarket these mechanical and electro-mechanical systems. And we developed our first battery prototype approximately two years ago.
+
+
+
+ That battery prototype, first one is still there, it's still outputting power.
+
+
+
+ I think it's important, everybody looks at this now, this is a completely different thing. And in fact, if I can...
+
+
+
+ This is an older generation battery, but it's trying to hold it up to the web now. It looks like this. And people are going, "Where are the magnets?" And how can this possibly be what it is?
+
+
+
+ And yet it's actually a vastly simplified version of what we generated today. So in order to give you a brief, and a really brief, and a simple and possible technical understanding of what this is, how it relates to Orvo, why it is Orvo, but also what it's capable of. I just want to do a really quick demonstration of how we build these things. I think that would be quite useful. Louis, you, that's my son there, by the way, obviously the good-looking member of the family. If you can, make this focus the camera down on here.
+
+
+
+ Zoom in on that thing. (Silence)
+
+
+
+ Okay, there are three components to know about battery. And for the people who are here, I'll let you have a look afterwards. For the people on camera, on the show. There are very basic and very similar methods.
+
+
+
+ This is a problem of what this one has in mind. And then there is what we call an electric material.
+
+
+
+ And the difference between, and these could be the sheets, they could be basically any physical format. But fundamentally it's two different metallic elements.
+
+
+
+ And an agent or a gel. So in that way, if anybody is in any way technical, it looks identical to a galvanic cell. And a galvanic cell or a normal battery is something. We can't be eroding the other modes.
+
+
+
+ What's different here is that the gel that we're using is entirely different. It has no chemical interactions.
+
+
+
+ And what we do, and I've got a quick example here on the screen.
+
+
+
+ And this is simply these two. Similar metals, this material. And we melt it up because beyond the melting point. And what we're doing here is we're creating the electric version from a magnet. It's called an electric. So this is something that is a material that holds a permanent electric field in the same way the magnet holds a permanent electric field. And it's actually quite simple to do. All that we do is the actual chemical performance of this are not that simple. Once we bring it above its melting point, if we let it cool down at a relatively slow rate, it presses on an electric field. So all that we do here is we're generating a very strong, and if anybody will remember these things, we're producing Van-Graf generators from high school or whatever. What these do is this creates a very, very strong electric field.
+
+
+
+ And quite simply, all that we're doing is this material is now molten. As this material melts, what it does is it retains the electric field that's invited.
+
+
+
+ So when this solidifies, we do it very, very slowly, at the end it drives a positive event.
+
+
+
+ And regardless of how sophisticated the batteries may look or may get, and the reason I've done this is something that was not very sophisticated, but could melt inside it, is to demonstrate that it will always be exactly the same effect, which is two dissimilar metals and an electric or something that creates a permanent ferroelectric or permanent electric field. And when polarizing the right way, what to end up with is something that is positive and negative. So I'm sure most of you have seen where we short out something and we drain the energy and then it bounces back. And that's simply the permanent electric or the permanent magnetic effect saying that it doesn't really matter what you do to me, I will always polarize.
+
+
+
+ So the O-Bowl battery is an electrical field version of the original magnetic thing. So it is a consistent, similar, and in many ways an incredibly simple piece of technology. Two metals and some gold.
+
+
+
+ To be frank, now, that's very well and we've demonstrated that and we got a lot of the questions that were asked via email from Paul.
+
+
+
+ How long have you run this for?
+
+
+
+ How can you be sure that it lasts? And so on. Well, the answer to that is that the original batteries that we made, you're on your way over here, you'll see that there's still one drawing power for 24-7 for nigh on two years with no degradation. And that we know that theoretically these materials will hold the electric field, will hold them again circa 800 years. So where we've got to 12 years into this project is a principle that's simple. A principle that is relatively easy to manufacture.
+
+
+
+ So what are the challenges? Well, why isn't this in my mobile phone or whatever? And the driving point in every single type of battery technology, whether it's ours, whether it's lithium ion or whether it's anything else, is what's called power density. Power density is very simply the amount of power you can output for a size.
+
+
+
+ Now, in certain industries it's power to weight, so in the transportation industry it's power to weight. In the industry that we're in, which is mobile, and it's like, you assume electronics, it's power to body. So I might be able to build a battery that from power plants home, but if it's that big, it's of no value.
+
+
+
+ So these kind of relatively unsophisticated batteries have a horrendously bad power to volume ratio. And what we've been working on in the two years is improving that, just by engineering it in different ways. Very ultra thin film and so on, using a blow box. If you're here, things matter. Nor what we've come down to is multi-layered thin film batteries.
+
+
+
+ We are at a point where in the last 12 months, 2 years, we probably had about a 500 to 600 increase in power density. That's the amount of power per volume.
+
+
+
+ And we're probably, in terms of specifically a mobile phone, we're probably 2 to 3 times away. So the 2 to 3 sounds horrific, but in real terms, in terms of where we got to, it's not that bad at all.
+
+
+
+ So hopefully that gives you some appreciation for what it is, why it is all about, and what's involved in building it. Again, this is a really cheap ugly demonstration, but it's the best way to understand the way these things are manufactured, and they're probably manufactured in China. There's obviously a lot more automated, sophisticated, more and faster. But it's the same. It's absolutely identical.
+
+
+
+ Now I'd like to just talk about, and I'm going to take that out of the way, some of the products. And I guess maybe before doing that, and again, anybody who's here is going to have a look at these,
+
+
+
+ the battery that we have works very well.
+
+
+
+ It's unlike all the batteries in certain perspectives, in the voltage output levels, and I'm literally minus 3.7. Your double A's are 1.5, your triple A's are 1.2, and ours has an unusual voltage output. But other than this curious fact of recharging itself, it's no different than any other battery.
+
+
+
+ And therefore it has a product base. Now we made a decision in order to be able to demonstrate and again achieve licensing, which is rather than running to the industry with what we've got trying to license it, that we would first of all place some product in the market and use that to create a better marketing decision for ourselves, to try and get better value.
+
+
+
+ The specific products that we have looked at are e-cigarettes, which I'll discuss, power cubes, and mobile devices. So what I want to address first of all is the e-cigarettes. So, Louie, if you can zoom in here please.
+
+
+
+ Can you zoom in a bit closer? See, somebody in the family is good with technology.
+
+
+
+ And just maybe tilt another.
+
+
+
+ Thank you.
+
+
+
+ When we started, well first of all, if anybody doesn't know what an e-cigarette is, an e-cigarette is a very simple device. It is literally just a battery.
+
+
+
+ And it's a chamber. I'm trying to do this for camera and for off screen. And in the chamber is a little heater, and the battery powers the little heater, and the little heater vaporizes the fluid and the fluid and then is smoked or inhaled. And that's all any e-cigarette is. It's just simply a heater from fluid and it's electrical, so it's a battery and it's a heating chamber.
+
+
+
+ When we started to look at these with an Irish company called Liquid Solutions in excess of a year, the market was primarily around 5 watt devices. Now, I'm going to have to be slightly technical to explain this.
+
+
+
+ Your iPhone draws an average of 0.2 watts. So over 24 hours, 20 watts. This is not enough. This is what battery is doing.
+
+
+
+ 5 watts in an e-cigarette obviously seems like an awful lot, but that's 5 watts that's used. Maybe 5, 10, 15, 20, 30 seconds an hour. So it actually averages the average power use of these original 5 watt devices is in the range of about 0.1. So about half of what it runs.
+
+
+
+ So relatively achievable for what we're doing.
+
+
+
+ However, the e-cigarette industry has changed.
+
+
+
+ All of the money right now is in. If you look at this, this is an e-cigarette battery from a company called Baker Shark. And this is one of both of these, which is 40 watts. So to put that in perspective, that's 8 times more, or 0.8 per watt on average, which is simply impractical for our technology to do so within this type of software. So we've been discussing with our customer, with Baker Shark, that the original intention was to simply place our battery into their product. And we can proceed with that. There's no market to buy one product. What we need these guys to do is to engineer their products around our battery. That's a fundamentally different thing.
+
+
+
+ As far as I'm aware, I see a new one here, but now I'm a bit more than I am. As far as I'm aware, these three companies are looking at putting together a consortium to do that. So have we shipped any e-cigarette batteries? No, there's no market for the kind of battery that we produce. However, these three companies are going to design, as I understand, the product to the brand-new battery.
+
+
+
+ It will not be a port-a-port product. It's just physically not taking it. So I guess we'll come back to that and then I'm going to remove these for a minute.
+
+
+
+ Obviously, in the meantime, we have not been working on the products itself. Now, many of you will have heard us talk about a USB power queue. And this is a code-type case. And what I'm going to show is simply, so that you understand, I guess first of all, what is it? A USB power queue is simply a device...
+
+
+
+ It is simply a box and there's plenty of them on the market where you can log in any USB device, like your phone, your iPad, whatever you require. And it provides power to charge up your device. So it's a fairly simplistic device. There's lots of them on the market. They range from 8 quid, 5 or 6 quid sometimes, you know, up to 100 dollars.
+
+
+
+ What we've been working on is our version of what is like these prototypes. I probably need to explain what's in a power queue. What's in a power queue, from our perspective, is our battery, which is this. And this is a relatively high-powered battery that's been manufactured in China and had it cleared for us.
+
+
+
+ As I said, one of the unusual things about our battery is that it produces unusual voltage output. So I'm going to go to each of the components separately.
+
+
+
+ We then have a circuit board that we have developed its own by us. What this does is it takes any voltage on this side and always gets 5 volts out. So it's a regulator chip. The problem is, whatever you give me, I'm always going to give you 5 volts out.
+
+
+
+ We then have a lithium ion battery. And what we do is we take the output from our regulator chip, and this is the same in all products. What our system is doing is simply continually trickle charging the battery.
+
+
+
+ So if it's... For our system, it's actually... It's actually where you are charging.
+
+
+
+ It's the one that's used to do that. So if I take the standard... If I take my battery, it's a standard bit of... It must be electronics. And these are all the components of them, other than casing.
+
+
+
+ So where are we with this? We're here, and people are obviously around. There is being tested in respect to the traditional parts. And we have the children from Romania choose parts that do this, and they share customers in the WNAC.
+
+
+
+ So we're pretty much at the point where I'm not charging this product. So I'm in the next couple of weeks, and a couple of things that are going to shock people. I'm going to get them.
+
+
+
+ The price for this thing is 1,230 euros.
+
+
+
+ Which seems like already a jig, this kind of money for a power cube that is big and chunky.
+
+
+
+ However, when we look at the type of wires that we serve, I see the low-cost chips. I think we saw it with the cheese format. The quick way to serve, did you? The initial type of this. And the initial part of this. Did they even want it to be a power cube? No. Did they even need all this? As a unique... Did they only sell this in economics and leave all its new products?
+
+
+
+ A ridiculous reason why people don't want to work for half. Listen to me. Don't remind me of all the stuff you have so much in.
+
+
+
+ I mean, you get it. That's true. But these are already got little saving stuff. You shouldn't have access to this. So go for faith. Don't be very nervous.
+
+
+
+ Now, whether the power cube achieves that or not... We need to say you want the key back today. We don't know.
+
+
+
+ So in the pipeline, and I'm going to quickly show you here. And if not, you can still play with it. This is the top of the width of the pipeline. That's very, very serious.
+
+
+
+ I can't remember what's computer, but we can't remember. No.
+
+
+
+ We cannot be 100% sure... We need to be back to those. No excuse. ...if the lights move from the rest of the industry. And so, in the meantime, and I'm going to show you very briefly. We've been working on... No, no, no. But what we've been working on... You need to get... ...is an iPhone battery. An iPad battery. This is the current iPad battery.
+
+
+
+ It seems like it's a bit too... But in real terms, this is part of the case. And it would be split front and back. And we would get... It's actually... Because it would be a school becoming E of K. And everyone would see our place on that. Moving the power cubes. And then behind that, the next tactical move of doing an iPad... ...or doing a phone is already there. It's in tests. Just question of activity. Now, we don't want, as a matter of fact, to sell... ...iPad covers or phone covers or any of these things. The only reason we will do that is to continue to put pressure on the industry... ...to do business in our terms.
+
+
+
+ So again, for anybody who's here... You can say, again, this will keep your iPad for normal use. I should say, pretty much pumped up.
+
+
+
+ Ready? Continguously.
+
+
+
+ Is that still working?
+
+
+
+ And I think that really gives a very brief look at the situation of the business. I hope...
+
+
+
+ I don't think that's anything I forgot about. I think, of course, we just want to think about what this thing is actually... ...what this actually represents to the world specifically. We just think what this actually does not far.
+
+
+
+ Okay. The reason that we've gone with an iPad rather than a phone... ...and again, a decision to launch this is not met. We need to make that clear. But we haven't decided to launch either a phone cover or an iPad cover. But the advantage of the iPad is there's not a room to work with. So our engineering in terms of products doesn't need to be as sophisticated as...
+
+
+
+ ...my phone, which has cover on it. So if you look at... And I'd like to thank the member of the audience for this advice. If you look at the engineering behind existing...
+
+
+
+ ...bactries, life extenders in the phone market, it's substantial. Again, it's not something we try away from. It's just something that may or may not be necessary. So we focus instead and this will go into a plastic case. And it is literally something that we've been leading development on in the last couple of weeks. And it will fit in a very similar fashion to this product round the front.
+
+
+
+ And what this does is constantly charge the battery to the right back. Now, a couple of things I should say is... First of all, if you...
+
+
+
+ From the point of view of expectations on all of these things... If I was to use this iPad 24 hours a day, 7 days a week... ...it would use power greater than the right tool you can find. So it will run out. So in any of our products, if you use them beyond the norm... ...the traditional battery is being drained and we have people.
+
+
+
+ So there are some circumstances in these cigarette and the power cube... ...and in the iPad where we can train where the user can be used and drained. And what will happen in that case is it will have any normal dead battery function.
+
+
+
+ The product won't stop working but our battery is continuing to come from the front and back to itself.
+
+
+
+ All of the batteries we produce are designed to provide power for the average. So you've got to consider it a bit like... When you use your phone and you're doing loads of stuff... ...the main battery will discharge in a very fast range. But when you're not using it and we're pushing it up with a rake... ...when you're not using it and it isn't discharged, we're continuing to push it up. So over a 24 hour period...
+
+
+
+ ...we're providing more than sufficient energy...
+
+
+
+ ...or you can have abnormal situations.
+
+
+
+ Another thing that is going to absolutely horrify a person... ...and I'm going to start my friend...
+
+
+
+ ...wasn't the €1,230 price and the look of it...
+
+
+
+ ...is what is the expected value rate of these devices. So we're putting these out into the market.
+
+
+
+ There's going to be a huge emphasis on this, a lot of people.
+
+
+
+ And we have to be realistic. So the expected value rate of this is 1 in 4.
+
+
+
+ I'm holding it. Excuse me, I'm wanting to back up. My God, that sounds terrible.
+
+
+
+ Where we've come to that number is we've looked at the rest of the industry. So the value rate of this is 25.6%.
+
+
+
+ All mobile digital electronics have obnoxious values. It's all standard data, people when you say that. So I just want people to be prepared. So our failure rate for targeting is perfectly industry normal. And I think that's mobile energy. Carry around energy for electronics. That's horrendous value rates.
+
+
+
+ So from a cost in that, what we're doing is... ...from a costing standpoint, we're looking... ...we manage that quite soon, but I don't want it. It's basically what we want to cost. From a public sector, we understand what it's just is. And for managing that, we provide 12-month warranty. And that is another portable warranty. We just replace it, and we have to do that for the same time. So when it breaks, and they will break, they'll break. It's good money. Certainly people might find that a fairly awful failure rate... ...but it's just industry norm for this.
+
+
+
+ Our policy... More important, it's money for over...
+
+
+
+ ...and the cost of that is built in.
+
+
+
+ It's not the questions from anyone.
+
+
+
+ It forces us to look at the cost of money for a cost... ...or type it in for anyone online.
+
+
+
+ I understand, again, it's a very new market.
+
+
+
+ But I understand these things... ...and I think that's what it is in the industry. As I understand, there's something in your pocket. It's six months for e-cigarette to last, it's considered normal. And again, a lot of these failures are not necessarily failures.
+
+
+
+ These failures, because I can't speak for C-C-1... ...you said only then, it barely breaks. So if you look at the... If you would break down the 25.6% of the icon... ...then you'd find about half of that is what the more physical damage... ...the product is not designed to take. And half of it is component. Things that break.
+
+
+
+ But that 25.6% is what they wanted. This is the ones that they were facing.
+
+
+
+ So in terms of looking at this, we have to be realistic. And again, we've been resulting in with this here a couple weeks... ...and we should be aiming for five, but of course... ...we should be aiming for zero percent. But also we can't be unrealistic in terms of the expectations. Because most of the components in this are stuff that we buy in... ...that are in the other products.
+
+
+
+ And they're subject to the same parts. So the e-cigarette is unique in that unlike the iPhone... ...it's shaped when you're sitting in your pocket... ...which is where people carry it. It's dying to be broken. It's to be bent and to be connectorized.
+
+
+
+ This is just to be mobile and super-actors.
+
+
+
+ No, the market's changed. Absolutely not.
+
+
+
+ You probably heard something in one of the corners.
+
+
+
+ No, it's broken.
+
+
+
+ I don't know. And again, sorry, stand up. I don't know. I mean, the power requirement's going to be... ...if you can't buy that and whatever way you want to look at it. That's just to be balanced. We can't do eight times power output in anywhere near the shape or size... ...that they're asking for. They have to come back to the market.
+
+
+
+ We can produce the five-watt price. Now we have to buy the five-watt price. It's kind of a few colleagues.
+
+
+
+ We've met with these guys. We've met with the guys they've been. I love the guys. And they get it.
+
+
+
+ But even today, about the customer was in with us today. And even today, he's bringing new products. And they're called "So Lonely" dropping things. This is a market that's changing fast. And we currently can't meet the requirements...
+
+
+
+ ...when we can't take them to the existing product. We want this product to be real. And again, that's just the facts of it.
+
+
+
+ So there is a question... I'll just take a couple of minutes. No, no, I mean, he's saying he's got robbed.
+
+
+
+ We can't leave this office until he's got the bloody keys back.
+
+
+
+ Okay.
+
+
+
+ It's a bit late, I've forgotten. Let's go with some questions. You only have to go to Burnham Park. Look at people here. What's happening?
+
+
+
+ No, sorry. This is sales prices. 1200 yen. The production costs are including warranty.
+
+
+
+ Again, we can drive that down to 70. Both in small volumes. We're having these things machined here. Too much of a risk. And so on. We're looking at 500 euros. But ultimately it'll get down to 70. How many more will we market it?
+
+
+
+ Okay, again, something that... I wonder if you ask if we can change the word. We're in many ways...
+
+
+
+ Sorry, Pat. The question was, how will... I know. We're just going to get the key back today. We're not looking at the office. I'm not looking at any other company in the world. We can develop a product. We can make it back to anything. We're sitting in a box and we're trying to sell the equipment. You know, when every...
+
+
+
+ And obviously part of that is marketing. And what we're attempting to do... I know, but we don't know that. We know that the marketing doesn't achieve maximum exposure for minimum dollars.
+
+
+
+ Okay? So the way it'll be marketed will be viral. Again, it will probably upset and confuse quite a few people. Because the type of person we're targeting this at, and the type of consumer who is going to initially buy this, and the long-term brand objectives in the brand, is at least as important as the technology from a return point of view.
+
+
+
+ So it will be viral marketing. It's probably something we touch on in the next week. We might have to do this again to go through it in the next couple of weeks. But it's going to be entirely a viral marketing campaign. There's only no adverts. We're working with a company called Rabbit Hole at the moment, who are excellent at doing this kind of viral marketing.
+
+
+
+ I don't think that's it. Any questions from the floor?
+
+
+
+ (Inaudible)
+
+
+
+ So the question from the floor, as I was repeating it for the people online, was is there any way to improve power output? And the answer is yes.
+
+
+
+ If I can just show it to the camera first, these are the devices that we're having made up in China. So if you look at the power density of this, it's actually getting very close to what I've done. But it's all about manufacturing process. There's no extra bit of magic that we can throw into this. It's about the process of manufacturing, the size of the components, and so on. So the answer is absolutely, but it's about manufacturing process that brings it to smaller, cheaper, better, nothing fundamental that we can do to this. Because it does what it does. It just needs to be made smaller with different materials, different circumstances. So fundamentally, we have 10,000 of these sitting in top of an airport right now that have been made for us in China, to our spec. And they will go straight into this. And we will then be discussing with the manufacturer, okay, how do we make it even smaller? And that again is about investment in equipment, machines, and manufacturing processes. So yes, it's entirely about manufacturing.
+
+
+
+ We're currently targeting 10,000 of our units. So we've ordered in enough components for the first 1000 of our units.
+
+
+
+ Yes, and in this, and I just maybe should explain this shape. This shape was the original cube version of the cube. We have subsequently redesigned it to be the shape. So there'll be some interior layout issues. But the reason that these batteries that you will see lying around is that originally the cube was a cube. It's no longer a cube. So this plastic is made up here and it's set and it's hidden. So all that putting it together, stuff is done here, but there's nothing sophisticated about that. The key element is these things. So it's a question. And we only got this prototype, this latest prototype. And I should maybe explain the difference here.
+
+
+
+ What is changing on it right now is if you see this, this is flat. So when you plug your cable in, there's potential it'll better break. The only difference with this is that it's recess. So you plug your cable in, your cable's protected.
+
+
+
+ These are minor last issues that we're looking at. We're trying to avoid the term monkey anyway.
+
+
+
+ And I'm just going to repeat that question. If I get it wrong, do we have pre-existing orders and what's the time frame for that to go to people? And the answer is yes, we've already had people pay for it and they're on pre-order. And I think we're quite confident that we will know. Of the thousand we're having made, because of the one in four value rate, we're actually only selling 700. We need to have a stock that we... The worst thing for us is to have a break, which it will, and then go, "Yeah, we can replace it in eight weeks." Particularly from a marketing perspective, it looks bad. Now, what happens is there's an awful lot of the compa... Whatever breaks in here is most likely this bit. It's not maybe expensive. So they'll be brought in and reworked.
+
+
+
+ In terms of what is the absolute launch date, we do not absolutely have it. But we are literally talking days and weeks, and it's certainly not months, because we have all the components. The key bit has shipped. We're working with the manufacturer down in Waterford on just finishing these.
+
+
+
+ In fact, probably the longest need item is actually back to the company.
+
+
+
+ So the objective is to sell 700, which is a breeze of about $720,000 in revenue.
+
+
+
+ We're... $840,000, I think. That's the way he does the money. Okay. It's a really...
+
+
+
+ We then use the profit from that to reinvest and move the next batch to the next batch.
+
+
+
+ That's pretty much what we're about to know. So that's a good point.
+
+
+
+ So...
+
+
+
+ Year one was a long time ago. I can actually answer that. I shouldn't do that.
+
+
+
+ I mean, we have... We have to be very careful. Again, there's no point in us sitting here and saying, "We know the demand for the power queue." What we've done is we've said, "Look, we think 50,000 is a reasonable number." Yeah? And if we sell 50,000, you can work out the numbers. So, you know, 1,200 quid each. So you can see that there's an awful lot of potential there. But it may very well be that we have to drop the price. It may very well be so. I think in terms of us sitting here at this stage and going, "Look, we're going to make 5 million or 1 million or 50 million profit year one."
+
+
+
+ It's not something we can say with any confidence. We can say, "We will make a profit this year. We need a small profit. We will make a bigger profit next year. And I can't... I don't think it's fair for us to commit to what that is until we start to see the initial traction on the power queue. So if the first thousand sell in three days, I think we can... You know, our confidence level will increase if it takes us three months to sell them. Then we have to re-look at it. I think there was a question here.
+
+
+
+ I just... Sorry, I'm not sure.
+
+
+
+ Okay. Joanne here is asking the question, "If the demand for all about is there, and are you ready to produce another 50,000 units is necessary?" Absolutely. But realistically, what we will do there is we will license the product onto a third party. So again, our objective here has never been to be a manufacturer, but it's to get our own product in the market to achieve a goal. So if we see this product take off, I think it's more realistic use of our resources to sell the rights to manufacture it to somebody and charge a few quick for everyone. That's what licensing is.
+
+
+
+ And if the demand is there... I think Brian is saying there's patent issues with the iPad charger. Brian, you have to tell me what they are. I'm unaware of any...
+
+
+
+ I'm unaware of any patent issues with the iPad charger. There are issues with connecting to all Apple devices. Apple have launched this new connection type, which is called Lightning, which is not new, which is relatively new. And to be able to connect to an Apple, you need to get a Lightning chip, which means you need to be able to...
+
+
+
+ You need to become an approved Apple vendor. And anybody who has Apple, if you've ever seen this message in Johnson, can say, "Not approved Apple device, that's because of this smart Lightning chip." How we get around that is that we don't sell the games.
+
+
+
+ So the other end of the connector is opening the same stack.
+
+
+
+ And it would be saying with the iPad charger, so you have to actually use your own head. So connect this bit to this bit.
+
+
+
+ And it's a simple way to avoid an issue that we don't need to take off.
+
+
+
+ If your product signature is looking back, which then charges the consumer device, what is the device value that you're looking at?
+
+
+
+ Okay, first of all, I want to answer the question in a different way. We first of all look at what's the life span of the product. Our objective is to power a product for its life. So again, in the e-cigarette, 6 to 12 months, in the phone market, 7 to 18 months, and in the power cube market, something similar.
+
+
+
+ Well, the lithium battery, what happens with lithium batteries is as you charge them, they age, they take less and less and less and less charge. So the depth of them, or how much charge you're holding, tends to reduce and reduce and reduce. What that effectively means to you as a customer is that you plug it in and it seems to charge really fast and it doesn't last long. So it's saying on percent, it's lasting 3 hours, instead of saying on percent and lasting 12 hours. In the event of a trickle charge, that's not really an issue for us. We're constantly doing that.
+
+
+
+ What works? Could prevent people from being called to market this month?
+
+
+
+ Not having the... I mean, I'm not being classified, not having it conveyed. We are waiting for packaging, we're waiting for anodized metalwork.
+
+
+
+ PCBs in and out. So, I mean, what I'm talking about here is not a question of it being...
+
+
+
+ It's very different. It's completely our design and our control. And what we're doing is simply assembling components that we design and buy in. So any slippage on that is minor, unreliable than anybody else.
+
+
+
+ A different question. What should be the same? Are there any issues with the iPad charger?
+
+
+
+ Yes, that's all. It's a large issue. No.
+
+
+
+ And again, I'm not trying to be difficult, Brian, but our technology is patented and patent-ending.
+
+
+
+ And I can't see why the iPad charger... And again, I'm not trying to be... would suffer any patent issues.
+
+
+
+ Teodra, is a robot assembling parts for the parakeet? The robot is currently sitting there waiting for the 10,000 parts to arrive hopefully tomorrow.
+
+
+
+ Yes. Sorry, just as a... Not on place, yes. As a chair, I should say. So we have one chance. A chair. So what expectation can a chair also have of dividends?
+
+
+
+ Okay, within our conch hour's agreement, it's very simple. 50% of all profits are paid with dividend. And again, we consider here and theorize what that profit's going to be.
+
+
+
+ The reality of it is we're launching a vastly new product at a very high price into a market that is unaware of its coming. So we're extremely confident of profit. The profit level and subsequently the dividend, as the dividend is off of profit, I think we can only realistically answer that with any certainty once we start selling. So if we start selling them, we see demand that X a week, it becomes very simple to kind of go, "Okay, that's fine, then we can work it out." Right now, everything about it is in terms of its sales, its pricing, its profit, and its market uptake is in and out. So I would love to answer the question when we start selling them. If I gave you an answer now, you would have no religion, and so on. So I'm not going to explain why it's an answer in a way that makes sense today.
+
+
+
+ It's each other.
+
+
+
+ (Inaudible)
+
+
+
+ Yeah, a lot of the questions...
+
+
+
+ I'm sorry, I should repeat the question. I think the question is, is the IP protection in place for licensing? Is that a fair summary?
+
+
+
+ And the answer is yes and no. As in, we have patents, we have them, you're passing the same way, my officers, there's loads of patents and trademarks and everything you would expect, but they're not testing, of course.
+
+
+
+ And so, again, I'm not being negative, I'm being realistic here. If you look at the absolute war between Samsung and Apple with thousands of patents over products, this is a gracious market.
+
+
+
+ So, yes, we are covered, but that coverage is untested, the trusted market. But again, that actually brings up the real issues. What our real protection is here is rampant, and everybody hates to hear this. And we've been discussing this, and I've got to look, we're not in the business of building batteries or creating free energy, we're in the business of a consumer brand. Because a consumer brand is worth far more than any of the stuff here. Absolute farming, typically 60 to 70 percent of the value of a business is in its product. So, it's the brand that protects us. So, this all-boxing and everything associated with it gives you far greater leverage with your customers and gives you far greater revenue and gives you far greater protection than anything else. Brands are really easy to protect, technologies are complicated to protect.
+
+
+
+ Do you want to try it? The question was, how much additional weight on the back of the iPad? I would imagine we're looking at doubling the weight.
+
+
+
+ Yes.
+
+
+
+ Okay, so the first consumer product, and the question was, what is the weight?
+
+
+
+ And again, if you're here, this is easy.
+
+
+
+ But this is going to be built out way about half a kilo, which is obnoxious.
+
+
+
+ And it's big. And Pat doesn't like me saying it, I don't like it. I like the way it looks.
+
+
+
+ But again, to understand the process that we've got to, we have had this idea of, and built and the weight, everything that goes with it, directly with the people who prepare to spend the money. So, my view on whether I like it or don't like it is irrelevant. It is all driven by the consumer, the emotion. So, this thing will end up about half a kilo. Of which, by the way, 50% of that is the case. The case is big and heavy. But again, it's also not a product that you stick with the product. It's a statement case. It's not a parakew. You wouldn't buy this parakew if you wanted a parakew. Would that make sense? You buy this because of the significance of what it is.
+
+
+
+ Well, there is a long time to get to a point where you still did not have a format.
+
+
+
+ How confident are you, how long would you believe that this would take enough to achieve?
+
+
+
+ Oh, okay. Well, I guess the point is we do have a phone battery. What's in here is a phone battery. It's rather large.
+
+
+
+ We have batteries that power mobile consumer electronics. And again, the reason to repeat myself, the reason we're putting these things into market is to create a licensing position for the manufacture of these to be taken over. What makes our parakew, which is by the way, 50% in space of the people's technology and 50% ours, go to be able to fit into your phone is about manufacturing. It's not about technology or development that we can do.
+
+
+
+ Paul is asking, "Chinese manufacturers aren't known for their secrecy.
+
+
+
+ What's to stop someone from taking their money?" The answer is absolutely nothing.
+
+
+
+ And again, for people who understand, we manufacture in China because of capability. We found one other thing in the US, in the US, past timescare.
+
+
+
+ The command center that we did, "Manufacture in China, we will stop Chinese companies from taking over." They just buy it, re-enter it, and do it any day. So, the protection, again, is no different than anybody else who manufactures the product that has value in the market. It will be a candidate. It's a problem that we need to manage.
+
+
+
+ The issue is not as manufacturing in China. The issue is, as any company that gets counterfeited, the issue is managing the candidate.
+
+
+
+ So, I hope that's done that. In terms of bringing out one of the different products, you can cause counterfeits to run your own product. So, you're controlling your supply chain and your consumers, and your route to market is how you manage it. But again, we're not in any unique position with respect to this. And again, the fundamental myth here is that if we manufactured it in Boston, the Chinese wouldn't rip it off. It's got value. The Chinese would rip it off. How will the Russians and the Vietnamese and everybody else, it's our job to make that problem as small as possible.
+
+
+
+ The materials are not that specialized. In other words, there's no kind of material in here that is necessarily in limited supply.
+
+
+
+ It's the same materials. In terms of, like I said, we have currently one manufacturer who can do this. Now, we ordered 100,000 units from this manufacturer. I want to put the scale into perspective here. It's taken four or five weeks to arrive. Sorry, 10,000 units, five weeks to arrive. The units were made in a day.
+
+
+
+ They just happened to have all this stuff to say.
+
+
+
+ So, as we get more now, a lot of the reason for that is a lot of specialist equipment in there.
+
+
+
+ Part of our job will be to find other manufacturers, Chinese or almost certainly Asian manufacturers, who can do the same thing so we're not held in the hands of one. That is an issue.
+
+
+
+ I'll just repeat that question. The question was, are we being led up the garden pass by the e-cigarette company? As I said, they were in with us today. They're getting the same question, which is, "Is the store leading you up the garden pass?"
+
+
+
+ The answer to it is, the straight answer is no, absolutely not.
+
+
+
+ The other answer is, this is a market that's changing, handover fits faster than anything I've ever seen.
+
+
+
+ We could produce what we originally contracted to produce, and it would be sold for $6, and we lose money in the day, lose money, it would get us how it works.
+
+
+
+ Again, Alan, it is simply a factor of the rate of change in the market. If I take this, or these ones, these weren't here.
+
+
+
+ This is a market that is exploding beyond...
+
+
+
+ I said to them, I said, "Look, I remember the sort of PC industry." It was not. There were a thousand players producing this. The rate of change in this market is this thing times 10 or 20.
+
+
+
+ We can't do 40 watts. Alan's question was, "Can we produce the battery to produce 40 watts in this size?" The answer is, no. No chance.
+
+
+
+ If we could do that, we'd be powering your phone. No. Again, I don't want to give the wrong impression. The e-cigarette is actually a phenomenal product in this great market. The problem is that we have to work with these guys to change the design of their products to suit us.
+
+
+
+ 100%, Jesse. 100%.
+
+
+
+ They're no different from the phone company. The guys who start to sell the everlasting e-cigarette battery are going to sweep the market in the same way they guys have flown.
+
+
+
+ Also, this is a very young market. It's making a huge amount of money and changing like you wouldn't believe, including regulation change and all of that stuff.
+
+
+
+ The other thing I need to say in this is that there is nothing that we've done in the e-cigarette battery today that we wouldn't have had to do anyway. We haven't gone down the path and gone blah, blah, blah. Everything that we've done, in fact, the e-cigarette battery is even the shape of these things. They're going against the parakeet when everything else we're doing. They're all identical. It's frustrating. I get people's frustration with it. Again, I've had to apologize for many things in this company over the years, rightly.
+
+
+
+ The rate of change of the e-cigarette market is not what I'm going to apologize for. It's simply a fact. It's a brilliant market to be involved in. We are involved. We will get a product out there and we'll make a very nice return on it.
+
+
+
+ But equally, we can't launch a product that nobody wants to buy. Makes no sense. (Pause)
+
+
+
+ The question was the sequence of products, which is PowerCube, iPad, phone. Again, I'll repeat what I said at the beginning. We don't want to do any of these. In the idea world, we wouldn't be doing a PowerCube. We wouldn't be doing an iPad. We wouldn't. These are tactical tools to create the best licensing position for us. If the PowerCube achieves that, we're not doing this. We don't need to do this. I think that something like the iPad is far more likely to achieve what we need in the market and makes the phone unnecessary. That doesn't mean we don't do phones. It means we license and other people do phones. All of these are tactical market entries that are about what we've been talking about. Our strategy has never changed. It's license, license, license. (Pause)
+
+
+
+ Again, it's our... Sorry. The phone market is what we're aiming for. The question, I have to repeat this, Alan. Sorry, I apologize. There's people listening. The question was, I thought the phone is what we're aiming for. The answer is, and anybody who's been here long enough, we've been saying the phone for 12 years. It has not changed. The phone is what we want. The phone is where the money is. The question is, and the fact we want a license to the phone people hasn't changed. These remain the fundamental things that we've been talking about forever for 12 years. The question is, what tactically do we need to do to fulfill the strategy? What gets us a license agreement where we get value for what we do, but also we get longevity?
+
+
+
+ A lot of people go, "Why are you talking about my iPhone?" I'll give you a very simple example from Apple. I'll give you two examples. The iPod. If you go back about 10, 12 years, my son would know when the iPod was launched. The iPod wasn't developed by Apple. The iPod became available because people developed small franchises. Apple licensed the rights. You don't know who made it. I don't know who made it. And you want to know now about 20 companies make it. And it's the Apple iPhone. The iPhone came about by guys making touch screens. I don't know who made it. You don't know who made it. They licensed it to Apple and Apple only. This concept that we should run off and ignore the consumer content is signing around that one. They'll make money for a few years. And that would be a relief, by the way, to a lot of people. We want to make money for a few years. We want to make money for five years, for 10 years, for 15 years. So to come back to answer the question, each one of these is a tactical tool to allow us to license to the mobile phone industry. If the PowerGue creates the right point to get us the right deal, we will never personally do an iPad. We will never personally do a phone. If we have to live on the iPad, we will.
+
+
+
+ But as soon as that's done, and as soon as you get the license, we can stop this.
+
+
+
+ These are the problems.
+
+
+
+ The question was...
+
+
+
+ Sorry, Robert, I'm trying to repeat.
+
+
+
+ Okay, so the question was, will somebody try to buy the company? That's the question I can't answer. And again, my answer remains to say, which is, if somebody makes an offer to buy the company, that goes to shareholders, and we all decide.
+
+
+
+ And that's the only answer. We are not focused on that. Because for that to happen, we have to achieve something.
+
+
+
+ So, I can't predict the future. I've been pretty bad at it for 12 years. I'm not going to keep it up.
+
+
+
+ I mean, it's an absolute truth. Because particularly in European technology companies, there's very few of them who last very long, past success. They get bored. Maybe that's different shareholder man-tannities in Europe. But it's not our job to do that. The only reason somebody buys them is they see them making inroads into the market. So, the way you get bored is to do everything as if you're not going to get bored. You just go out and get the market to sell. And that's what we're doing. And if you get bored along the way, it's not my decision. It's not anybody. It's 75% of the shareholders. Okay, that's it. It's a fair question. So, the question was, why do we need a lithium battery at all? And that seems like a fair question. And what's the voltage output?
+
+
+
+ The reason that we need a lead lithium battery is if you look at any consumer electronics products, its use, the amount of power it draws varies dramatically during the day. When you're on the phone, you're drawing, you'll be drawing a couple of watts and so on. Now, if you build a battery that directly connects, that has to meet that couple of watts requirement to end up with a very, very big battery.
+
+
+
+ So, what we do is we say, what's the average use? And again, if I take the example of the iPhone, when you're doing stuff with this, probably a couple of watts. But on average, at 0.4 hours, it's 0.2 watts. So, our battery for an iPhone will do 0.2 watts.
+
+
+
+ And the lithium, and it could be another technology, it could be super capacitive, or the reservoir, okay, will increase and decrease with use.
+
+
+
+ But over 24 hours, it will have received at least as much power as a user has used. So, it's a reservoir, if that makes sense. When you're using a zero-pilot, it's easy.
+
+
+
+ We dealt with that one that long. Yeah, we did.
+
+
+
+ How confident are you in the end of the term hearing on your dividends for the store?
+
+
+
+ I would just comment on it. It's a bit flippant. I think the earlier retirement of Pat said it's not going to happen long ago. That's not going to happen long ago. You know, from my own perspective, we obviously expect it to be a lot further down the track than we are. But I know, having been in the origins of text instruments in Dallas for the work happening, and origins of Intel in Palo Alto, California, that's what we have here now, that confirms to me that it might be made in the term economically foreign language, 16, 13, or 15 years ago. There's a couple more questions here about how confident we feel.
+
+
+
+ We're very confident in what we do, but we've been like that for 12 years. I don't think it's fair of us to answer these and say, "We take everything straight." Well, it's not. We've been at this 12 years, and we're very late at doing what we should have done. We are extremely confident in where we are.
+
+
+
+ It's unfair of us to commit to any numbers to anybody now simply because the truth is that nobody knows. There's no amount of analysis that you can do around launching such a unique product into the market, such a high price in such low volume. When we looked at this and said, "Look, how will we go about this?"
+
+
+
+ To do this in a full market survey mode would have cost a quarter of a million to 300,000 euros. That's just the fact. If you want to survey and say, "How do you determine pricing points and uptake?" and so forth, it's cheaper for us to put the product in the market, which is what we're doing. None of that is to say that it's been done as in throwing more at the wall. It just means the type of analysis that we're doing is a lot less formal. It's using user groups and Facebook groups and people that we know are likely to buy. The answer to it will be known incredibly soon.
+
+
+
+ The question is if a week-long battery became available, i.e. a battery to compare your phone. There is one out there, by the way. Again, a great example of why we didn't go directly to Apple. There's a company in the UK called Intelligent Power Solutions, I think, who did what a lot of people want us to do. They went straight up with their stuff. It's a week-long battery. It was all over the media last week. There's a really curious reason why it was out with the media. We went to Apple and Apple went this way. We'll fund it. We'll pay it. They got loads of money because Apple is a partner.
+
+
+
+ Apple have made no commitment whatsoever on any timeline to put it in the market.
+
+
+
+ None. This was all over the media. Not everyone's watching. It's a week-long battery. There's a whole lot of really smart reasons for that. The reason Intelligent Power came out and said, "It's here. We've got it." In fact, they said directly, "When our partner is ready to put it in the market, we'll go." What Apple are doing is bleeding them to death.
+
+
+
+ Now, will that... The answer is, "I don't know." It comes down to consumes.
+
+
+
+ It comes down to the reason that our technology has a premium. It's based on how much value you put in your phone that money gets from you. That's basically it. It's like, "What value do you put around this thing not lying?"
+
+
+
+ The question was, "Have we had interest from anybody else in the market?" The answer is, "Constantly." When I say, "It's constant."
+
+
+
+ As this began to leak a little bit, which we were responsible for, it's gone even more constant.
+
+
+
+ There's an awful lot of it. We need to build up pent up reasons for this. Our position on it remains the same. By the product, you see if you like it.
+
+
+
+ Again, I'll come back to it and I can repeat the story of Intelligent Power to every other unmarket-proven, licensed piece of technology. Where are they now? They're dead. If you want to survive in this industry, you build your own brand. You make your own way.
+
+
+
+ We're protecting ourselves by putting the technology in the market, creating a consumer brand. It's a consumer protection. If the consumer is sitting there, "I can buy that, but you're going to deal with everything." It's not in the market, which is where Intelligent Power found themselves. We can continue to do this. In fact, we can do this as well.
+
+
+
+ A lot of people, these companies in this space will adopt and tie you up.
+
+
+
+ That is normal. That's part of the game. The way you get around that is simply to develop your own brand. There's only one example where Apple can take care of it. You never have ever co-branded with anybody. It was U2.
+
+
+
+ You will never find Apple co-branding with anybody else. The only time they ever do it was a U2 iPod.
+
+
+
+ The reason for that is they understand the rules of the game. It's the brand that counts, not the widget, not the technology. We have to... The rules of the game are no different for us. It doesn't matter how cool our widget is. It's just a widget. It's just something that does something. It's a question of how do we maximize the value to us today? It's all about how. (Inaudible)
+
+
+
+ The question was, we've had several of these pre-ordered. Have they been ordered by players in the market? The answer is no. Have we had to inquire if the answer is absolutely yes.
+
+
+
+ We may have to develop different pricing models.
+
+
+
+ We get constant.
+
+
+
+ But again, we've made no publicity about this.
+
+
+
+ We've leaked a few things. We've made a few. Again, it's all about the viral marketing.
+
+
+
+ We're confident that the uptake will be good. We have no doubt that anybody in the industry will buy it out of curiosity. But what we're interested in more is consumer advice and getting spreading the brand. We'll buy the next thing.
+
+
+
+ (Inaudible)
+
+
+
+ Yeah. Not operational.
+
+
+
+ (Inaudible) The question was, is the free energy truth website on Facebook and the answer is absolutely not. The guy who runs it is the guy we met through the launch, Craig Brown. He absolutely loves it. To me, that makes it more annoying that people actually take this. But he is one of my friends on Facebook. Is there anything to do with nothing? No. Nothing whatsoever. Nothing. Absolutely not.
+
+
+
+ The question was, how are the finances? We closed a funding round recently, which is funding the components of the products. They're currently solid.
+
+
+
+ Sorry.
+
+
+
+ We have some existing commitments we're collecting.
+
+
+
+ But what we're focused on is selling these things and making them profit.
+
+
+
+ Yeah.
+
+
+
+ No, just a second. And again, I don't want to clarify one point. Okay. I think Robert's question was, we hope to be self-financing for now on. If the power cube sells, we will be self-financing.
+
+
+
+ The question was, are all these shares allocated to be sold? So the answer technically is no. I'm a no-corporate finance person. At the last AGM, there was shareholder approval to raise from 20 up to 25. I think we raised two and a half. That may be their, their amounts. So there's still an existing mandate to raise two and a half. We're not pursuing that right now. We're pursuing selling these things. If these things sell, we won't need to raise money.
+
+
+
+ If that makes, if that makes sense.
+
+
+
+ We do.
+
+
+
+ Sorry. The question was, why don't we have prototypes of weight-for-bit batteries?
+
+
+
+ And the answer is that we do. And indeed, if you look at, I wonder if somewhere, Louis, can you find me?
+
+
+
+ Okay. We currently have, Tance, Wesher, Patrick, they're going up. We only have batteries, they're about 500 microns thick.
+
+
+
+ Okay. Well, we need to layer many of them. So if you look at this thing, this is many layered tin batteries. In the same way you would put those, a couple of A's into your remote and so on.
+
+
+
+ I'll show you one after.
+
+
+
+ But 500 microns is still too thick. So we need to go smaller and smaller and smaller and smaller.
+
+
+
+ And it's just that easy.
+
+
+
+ So let's see.
+
+
+
+ There's a long-screen instinct.
+
+
+
+ The first one is, understand the liquid solution's code for the robots, which they did. How do they feel about it being used to manufacture another product? It's a lie to you, I'm sure. Thanks, Wesher.
+
+
+
+ I think unless there's any other, we're digging through this, we will, as I understand, the software we're using automatically reports this.
+
+
+
+ We'll post it up in full and complete. I think our objective here was to provide pre-AGM an opportunity, because we were getting a lot of people, there's not a lot of information floating around. Whether the information you view as positive or negative is personal, but we want to give the opportunity to provide the information and to allow people to shoot impressions and we go to answer answers straight. Another one, excellent. Thank you, Robin.
+
+
+
+ I don't have an answer to that. It's a matter of the board. The company, the board, is the next meeting is the beginning of next month.
+
+
+
+ So I think there's waiting for some accounts to be completed.
+
+
+
+ I think there are 12 pre-orders.
+
+
+
+ But ultimately, it is to make it a matter of the board. And as I understand, I'd like to speak in return. I know for a fact that we're going to be discussing the next board meeting, which is a couple of weeks long. (Inaudible)
+
+
+
+ Yes. (Inaudible)
+
+
+
+ Again, I did a blanket reply to that one.
+
+
+
+ I guess we were discussing this, myself, during the week. And everybody is trying to certainty ourselves, ourselves included. But there's a difference between uncertainty and we do have uncertainty in terms of how much and so on and so forth and confusion. What we're trying to do here is remove the confusion. Things that we don't know we can't tell you. So how many of these will we sell? When will they sell? We really get 12 and 13. We don't know, so we're not going to get dragged into it. What we can do is remove the confusion over what it is of where we are with it. You can see all the bits are laid out. Hope to, again, try to have a t-shirt. Yes. This is the double X. That's one of the questions.
+
+
+
+ (Inaudible) It accentuates about stomach. I would be okay here.
+
+
+
+ We have some bad examples down in my office. (Inaudible) So strangely enough, currently when we look at the launch of this or starting to build the audience, we believe it or not, don't keep the long commitments for the site.
+
+
+
+ I get it also absolutely true. You got any answer from tomorrow? That thing has to be spot on. Do you know where it is? It's fully designed. We are struggling to find, and we have an intermediary company working on this. We're struggling to find a company that plays a part to the quality that is expected. We expect probably the most important.
+
+
+
+ We are expecting sufficient or further prototypes in. When I say "prolonged" I'm talking about prototype packaging. We have two options for the manufacturer. One is the seven-day turnaround in China, then close back. Unbelievable, if not, that's probably the higher quality than the local turnaround.
+
+
+
+ So what we will not do is sacrifice the quality for a week. And again, I want this in the market more than anybody here, believe me. But we're not going to compromise on the things that make this product sell for the sake of a couple of days or a week. It's just not going to happen.
+
+
+
+ Thank you. Can I have a card for you? Yeah, 1,230 euros. Here is the question. I've ignored.
+
+
+
+ One for everybody in the audience. Let me put this in perspective. We have 600 shareholders. Our production costs are 500 euros. We'd be bankrupt. It ain't going to happen. I apologize.
+
+
+
+ I'm sure we can all get the t-shirts up in WX-100. Yes, I'm sure.
+
+
+
+ John, it's most just to wrap it up. You know, we've talked about the history that we've talked about. Did you just admit that you're not going out here to like it? The sales answer is mostly not.
+
+
+
+ Obviously, I don't... Can I say something about it?
+
+
+
+ What I don't want this to be is the sales numbers. This is not us trying to make you feel good about your investment in Scott. I don't want to make you feel bad about it either. I'm not here to be depressed. What I'm here to do is to try and remove some of the confusion and explain some of the uncertainty. There are no uncertainties. They're really not that horrendous. But we're not trying to do, look, it's all grand in this way. It's all really positive.
+
+
+
+ And we're making great headway. Like any little business we have, you know, ups and downs and so on. I wish the e-cigarette wasn't where it was. It is. I can't agree with that, yeah? I wish PowerQ was in the market two years ago. It wasn't.
+
+
+
+ But the situation is what it is.
+
+
+
+ If you step back from it a little bit, it's an extremely positive situation. There's work to be done. The type of work we're doing is doable.
+
+
+
+ We certainly believe there's a very positive demand for the parts of it and whatever.
+
+
+
+ Good.
+
+
+
+ Yep.
+
+
+
+ Yep.
+
+
+
+ Just to say that the statement was that after 12 years there's an awful lot of, I'm going to be nice and say frustrated or I could use the actual word, which is resentful. Okay. I get that. And I'm not going to laugh at it. But I'm equally going to say I can't change that. And I wanted to start with the history. So nobody is under any illusion. It's not something that we're unaware of. But it's not, you know, and you've got to start from our point of view. We paid a heavy premium for that. We gave away everything we owned in this company. I said, I don't know. I have no problem with that. But it's not been a case where the delays, which I'm also going to say something about this man here. Every single delay this company has had has been technical.
+
+
+
+ Pat has no responsibility for the technology. He gets his information from me, from Max and from the other guys. And he's gone to the brunt of the frustration and the resentments and so on. And he's gone, well, for something that he is seeking to massacre, his case is seeking to massacre. But I come back to him and say, yeah, no, I get it. Do not think that we are divorced. We understand that equally we have paid, we have paid a price for that. So it's not that it hasn't impacted us. It's an impact. It's amazing. I'm not bragging about that. I'm stating it's a fact. And it doesn't change what we do together.
+
+
+
+ Again, I'm not going to say sorry for it again, because if I could change my word, I can't. A question here. Can it be scaled up to run cars?
+
+
+
+ And again, we get this all the time. And the straight answer is not by us. And the moral and comfort answer, which we would have a debate constantly about this for hours, if you believe in electric cars, is that we would make no money powering cars. And I can go into all the numbers. It's probably not the time and the place. It is not a lucrative market.
+
+
+
+ Ford, and again, I just punchline to make you think about this. Ford make less a car, which is what, 20, 25,000 euros in real money than Apple makes for a phone.
+
+
+
+ So reasons are actually not presented to me. Actual physical dollars in the car. Not a great part.
+
+
+
+ So you can say, I try and so on. So the answer is it is not on our radar.
+
+
+
+ And it's not our radar because the money is it isn't what we're attempting to do right now.
+
+
+
+ So marketing is what we're wearing.
+
+
+
+ Yeah. The question was, what is viral marketing and how are we going to do it? I mean, first of all, I guess what is marketing? Marketing is about exposure and getting your message across. That's what marketing is. And in the 60s, we sat down, we watched TV and it was the one waiting.
+
+
+
+ Viral marketing is using, and again, I'm sure people would explain this in a better way, simply viral marketing is using the conversations of others on social media, Twitter, Instagram, and all of this to do the promotion for you. So rather than using their incentive forecasting message, you stir it up and you let everybody stir it up and so on. So it's a virus. It's viral. It goes out like that. We are uniquely positioned for viral because the smallest thing we do, we do measure this. And sometimes we do things just to see it's kind of strange and scientifically push what kind of response we get. So what we will do, and again, you'll laugh at this, OK, and put it on the map, say our viral marketing campaign involves doing absolutely nothing.
+
+
+
+ No website, no social media interaction, nothing but seeding people. And the non-existence for our social media impact is what will drive the social media.
+
+
+
+ So I'm not, we actually, and you'd be hard-witted consultants who said, your best way to do nothing. And it sounds crazy. When you look at it, it actually achieves every object we have. So we won't have a website. We won't have a Facebook page in terms of driving a Facebook page. We'll try to do nothing. And that lack of existence actually drives the social media wheels crazy. And that's what we're about. So that's kind of the ultimate execution.
+
+
+
+ But free energy troops is interesting. It's 50,000 followers.
+
+
+
+ And look, these are free energy troops. He's the biggest fan this company has ever had, ever will have. But I'm not that interested in them. The best exposure we get is from the defectors.
+
+
+
+ If you look at the demographic of free energy troops, I wouldn't say there's a lot of people there who buy our products. If you look at what you scientists said about us in a blog a couple of months ago, Spitting Fury, fantastic.
+
+
+
+ It's called brand polarization. In fact, the best brands in the world are strange enough to most hate them. Apple is one of the most hated brands and loved brands in the world. And that kind of polarization creates the bots.
+
+
+
+ So we've been working with rabbit hole, if you want to think of looking at this. We are uniquely well positioned to do viral. Viral has the other great advantage, it's relatively low cost.
+
+
+
+ So, sorry, no, the point is there won't be an official launch. It's the, I mean, if we launch it, we have a thousand of them. We know by getting it. So the whole point about being viral is that you're creating this, it's not buzz and demand. And the reason the price of high is not actually controlled.
+
+
+
+ We're working with some very smart people in this area. Kind of companies who were working for companies that you would know and well know. And again, we're uniquely positioned. And again, I don't want to say this is not about us looking for fame. It's purpose of the marketing. So it's no different than the sell boxes.
+
+
+
+ And so, as I said, it's in some ways the concept is very traditional. The way we're going to create it seems a bit wacky. But actually when you sit down with the guys that were discussing it, it's actually perfectly rational.
+
+
+
+ So another probably more pertinent question here is that we said Paraqu has a product lifespan. Is it expected to have a lifespan of 18 months, for example?
+
+
+
+ We were warned for 12 months, which again seems harsh, but that's the nature of the industry we're in.
+
+
+
+ What the actual lifespan will be of our vision, I think is many, many years. It's the other bits than it, the electronics and so on. That will break. But we warned for 12 months. And again, I need to re-put this in perspective. If that Paraqu works after three days, it's an exceptional Paraqu. If it's working in a month, it's off the written scale. If it's working in two months, it changes the world. So we have to put this in perspective. Will it still be working in two years? I don't know. Things fail. Why are we only warranting for 12 months? Guess who? You've got 12 months, it's proved itself as a product. It's not about us. It's also about us being commercial. You buy warranties in this market for electronics if you're carrying around for 12 months. Very good reason for that. It's called you look at the value rates. Take this expensive too.
+
+
+
+ How will you keep your mind from it?
+
+
+
+ The initial sales are all going to be done from, and again, I'm not going to get into it now, but there's a lot of pop-up stores, which sounds crazy. You can sell that many. But we leverage that too. And it'll be for sale on Amazon when we hit the right volume. So pop-up stores are actually a viral marketing thing. It's not the back will be selling on the store, selling parachutes.
+
+
+
+ So the first thing will be face to face, and we leverage the buzz around that then too. And the sales of volume will be on Amazon. And no, we will not have a website at that point.
+
+
+
+ Let me just to clear this. The one and four failure rate is kind of industry norm. That's what things in the industry. That's the failure rate of things in the industry. We expect to be the same as that.
+
+
+
+ To answer the question.
+
+
+
+ We have no plans to have a report.
+
+
+
+ This is a strange industry. This is an industry of the ultimate disposal.
+
+
+
+ But having said that, the people who buy it will most likely take it. I mean the really funny thing is, the people who buy them these are going to be ripping apart and taking apart.
+
+
+
+ So the answer is no, we will not offer a repair service. But I know for a fact there are people who will. But there won't be us.
+
+
+
+ (Inaudible)
+
+
+
+ Yep.
+
+
+
+ (Inaudible)
+
+
+
+ Yep. (Inaudible) Yep.
+
+
+
+ (Inaudible)
+
+
+
+ Yeah, I think the common was 50,000 seems like a lot and doesn't seem like a lot at the same time. You're absolutely right.
+
+
+
+ How many people would pay 1,200 euros for a box that's big?
+
+
+
+ Like this is a power cube. I don't know. And again, we can't hide from the reality. I think this is an amazing demonstration of a technology. I don't think it's an amazing product. But I think it's a product that will sell in 50,000 range.
+
+
+
+ Because you're not buying it for what it does, you're buying it for what it is. And that's a really interesting thing for people to. And again, if you look at marketing, the great marketing examples of this is that, you know, the Apple brand doesn't sell you a function at all. Don't tell them how many megabits and blah, blah, blah. What they do is they sell you a distinctive concept. So when you look at the marketing of this product, we're not selling it, but it does three charges a day. It's 2.1 am, blah, blah, blah. What we're selling is that this represents the end of the battery.
+
+
+
+ And that's actually what we're selling it as.
+
+
+
+ Sorry?
+
+
+
+ But again, if you look at it as a functional product, but if you look at it as a functional product, of course it will be obsolete. But again, the people who are going to buy this are not buying it as a product. They're buying it as something else. And there's something else that will never be obsolete. They're buying it because it's reversed.
+
+
+
+ Yeah, it's a bit wrong. It's done in a shop for licensing to the firm in the description.
+
+
+
+ Okay.
+
+
+
+ Thanks. I'm going to attempt, or I should say my son who's sitting on doing the intelligence stuff here, I'm going to attempt to get this video uploaded. Again, if there's any questions, I think that we will maybe come back and try to do this when it suits. I'm not going to say that, but particularly when we come to the launch of some of the marketing stuff, which I think will be quite, again, a face value and functionality when you break down through these actions.
+
+
+
+ Thank you.
+
+
+
+ Thank you.
+
+
+
+ Shh.
+
+
+
+ Anybody who's here, you want to have a look?

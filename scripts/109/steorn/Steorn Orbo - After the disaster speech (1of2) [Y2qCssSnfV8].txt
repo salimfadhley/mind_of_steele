@@ -1,0 +1,141 @@
+ We screwed up. I should say specifically, I screwed up. I may be explaining to you the excuse, this next excuse, and then I'll take any questions that you have.
+
+
+
+ We arrived here on Sunday. We have three systems with us. We've got one operating on a shooting night on Wednesday evening.
+
+
+
+ We installed it in this event of the day, and you can see there's a base for the systems there. The system seems to function. So we spent, myself and two of the engineers, and you may have seen it, we spent stuff.
+
+
+
+ We spent quite a few hours trying to analyze what the problem was. We stripped down the system. And what we found was that the friction in the system had gone to hell. So we stripped it down to core components, which was either alignment, it's a very simple system, alignment of the shaft or the bearings. The bearings are bussed. Why they're bussed? We don't know. We swapped out the bearings. We probably shouldn't have done that. And we bussed via other bearings. We have these small watchmaker bearings.
+
+
+
+ We have additional bearings. Additional bearings are not here. One of our engineers is with our supplier at the moment with the additional bearings.
+
+
+
+ However, we made the decision that until we had an operating, that we wouldn't try to put any more pressure on the engineers working on it. So we're deferring it. We don't know when we're going to defer it. We'll make that absolutely clear.
+
+
+
+ I want to equally say that that's a technical explanation for people who believe it or don't believe it. I can do nothing about that. It's a statement of the truth. The reason this happened was because I had worked a three-day timeline to get this stuff running. I was against the advice of everybody else in the company. I was against the other person from St oner at the moment against our engineering manager. I would like to take this on the chip. I'm here. I'll pop the questions. I'll be happy to answer any of these questions.
+
+
+
+ How long have you had it running?
+
+
+
+ Here we had it running for probably upstairs for about four hours on Tuesday night before we gave a small workshop we bought. We bought some tools. Obviously we did some tests. It was operating for about four hours on Tuesday night. When we made the decision, we had three systems. This is actually the base of one of the systems. We made the decision to start the installation. Obviously we had quite a short deadline. We installed the base and we decided to start the actual installation of the unit into this box.
+
+
+
+ I couldn't say specifically when it was probably about four or five o'clock on Wednesday.
+
+
+
+ I'm not looking for any simple "you don't deserve any" unless you don't deserve any. It's a mistake entirely of my making.
+
+
+
+ Can you see just a few thoughts in here? No. Is that...?
+
+
+
+ No, again, the heat shouldn't affect the barrels. I'm not going to. The only difference was actually very hot in here on Wednesday night. But it was hot enough to do this. I can't say... What I do know from a back end to a back end truck, the way we tested that is that we stripped the system down to watch you see there. We put the wheel in. We know the classic wind-down time from a hundred RPM is about three and a half minutes. Just of a wheel. We were probably proud of the wheel, bearings, and we were getting wind-down times in about 20 seconds. So we spare bearings. Lots of people, lots of spares. We start pushing them in, replacing the bearings in the system. And that can be grown quite a few bearings.
+
+
+
+ The heat is the only thing I think... I don't have an exact reason why, other than I can tell you that it has been to me the bearings have failed.
+
+
+
+ Somebody asked me earlier today, "Well, is friction such a huge issue?" We had decided to put in... Ultimately, the magnetic forces are obviously a function of the air gaps between the magnets. We decided to put in a pretty simple advice, a very large air gaps, which means go energy gains simply because it's easy to balance the wheel.
+
+
+
+ That is the situation. It's a mistake. I apologise for everybody. There's not an awful lot I didn't do other than take it on the chin. Has the more robust version of the...
+
+
+
+ Sorry? Has the more robust version actually been really fantastic? And you said why did you want it?
+
+
+
+ Yeah, I mean, the... I guess the answer to that is we don't have these rolling up for production. I mean, these are... This is a prototype technology. We don't have a hundred motors sitting in the office, ready to chip somewhere. So, are there any single robust media, like a quantum motion application, actually second-wise on a particular way? Yeah, exactly. No. I mean, the straight answer to that is robust. No, definitely not done.
+
+
+
+ That's the question. Sean, the stage of the sounds has gone a number of slots. I think there's a good day.
+
+
+
+ And back in the city, there's the dummy...
+
+
+
+ No, we were a final... Sorry, Nick. Or would they be filled with...
+
+
+
+ The configuration is incredibly simple as you can see from the device. The principle of the failed demonstration was to show the simplest form. It was very different places. You could find batteries or do other things with the counter, achieve that. The principle of the starter with the same angle, the round of stairs, they threw two stages.
+
+
+
+ Two.
+
+
+
+ What were their decisions?
+
+
+
+ Probably not the similar to where that one is going to go the longer and bigger.
+
+
+
+ So, in the four hours, did you manage to get a bit of video? No, we don't.
+
+
+
+ I need to say something. Obviously, this has failed. This event has failed. It is a deferral. We will be back. But equally, I have to recognise that we have lost a little confidence. Some people would have done so. As a company, we're going to have to do some other things in addition to redoing this demonstration when we're ready to do it. And some of that may involve videos and so on. Whether they're believed or not believed is ultimately a different thing. But I can specifically say what we're going to do.
+
+
+
+ Something that I could disbelieve would depend. I hope you understood.
+
+
+
+ I'm not here in the situation that I want to be. I've put the company in this situation. I have to take that on the chin. The only defence that I can make, it's core comfort to everybody, is that if we were here to rig a demo, we'd all be sitting here watching a wheel spin. And that's core comfort, but it is really the only comfort that I have at this point. It is a deferral. We're not cancelling.
+
+
+
+ I don't know. We have taken the other two systems away. They're currently being worked on. When they'll be available, I'm not going to commit until they're operating effectively. Was it working like upstairs when you brought it down here at a rent that didn't run? It assistant runs.
+
+
+
+ I was talking to a few of the guys around here and thinking of environmental issues. There is some environmental issues inside this room as it stands, like a few. I was just wondering if you'd be happy for a small group of us to get together and try and brainstorm some issues and problems. If we can come up with some stuff, talk to you about it and see if there's anything we can do here to help you. I'm quite happy that it is the nature of who I am, that whether it's good news or bad news, I'm here to take it on the chin. When there's advice to be given, I probably need to take it.
+
+
+
+ I'll start a new trade in a second.
+
+
+
+ It was very hot here. We weren't actually expecting it to collect the system. We just bought a couple of the fans who were working around it. It's not hot now. Whether the heat ultimately damaged the bearings, to be honest, we can't say definitively. What we do know is the bearings were damaged.
+
+
+
+ That is the reason that the system is not working out. The reason that that happens is because we simply have time frames that I allow our guys to install in it. I don't accept that. Can we concentrate on this? Can we boil out? Do you have a start stop? No, concentrate.
+
+
+
+ No, we don't have another system.
+
+
+
+ The question is whether we have start stop points, because we don't have three of these cost-of-function systems. I have a question. When you say you're deferring, are you saying now the plants that do the demonstration, are you just going to wait and see if they get something running without the pressure?

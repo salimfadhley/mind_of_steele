@@ -1,0 +1,151 @@
+
+
+ (Music Playing)
+
+
+
+ Thanks for coming along today. I'm going to apologize. I've got a flu, so my voice isn't as strong as it should be.
+
+
+
+ This is the fourth in a sequence of four experiments relating to ORBO.
+
+
+
+ The first two were related to counter-EMF.
+
+
+
+ The third one, which was a week long run, related to whether the component parts degrade. And this is really a summary and a look at the overall energy picture associated with ORBO.
+
+
+
+ To understand where we're coming from, you need to understand what we're trying to achieve.
+
+
+
+ ORBO is a controversial technology. And what we're focused on is getting this technology demonstrated.
+
+
+
+ People can understand the core principles. And ultimately, our role is to license this to people who make product. And that's something that we'll start on Monday.
+
+
+
+ We've made a decision to present this to the product development community in a number of ways.
+
+
+
+ And our prime focus is on a sequence of live experiments, as which this is the last one. If you look at really what we're saying here, you can break it down to three things. We're saying that an ORBO electromagnetic interaction suffers no back EMF due to the motion of the parts. In this case, that would be the rotor. So that as the system rotates, there's no back EMF generated due to the movement of the magnets.
+
+
+
+ We're saying that the very act of this motion causes a gain in the coils.
+
+
+
+ What that essentially means is that we put an energy of one into one of these coils that we're actually getting more back into the electric circuit. And that would be classified as an inductance gain.
+
+
+
+ And finally, we're saying that none of the component parts degrade. Obviously, there's energy contained in permanent magnets. And what we're essentially saying is that none of the energy that is being produced by the system comes from the component parts. If you sum all of these things together,
+
+
+
+ you end up in a situation where the technology produces more energy than it uses. And the term for that is overunity, something that's classically believed to be impossible.
+
+
+
+ What we're going to do is quickly summarize
+
+
+
+ these three elements.
+
+
+
+ We shot an experiment yesterday that explains the back EMF in a fairly cogent way. So if you'll just stick with this now, I'm going to play the video.
+
+
+
+ So in this part of the experiment, we're examining a traditional or a classic pulse motor. The system consists of a rotor with two sets of magnets, 180 degrees separated, and two coils, normal air coils, 180 degrees separated.
+
+
+
+ How we're going to demonstrate the level of EMF is by firing in two positions. The rotor will fire when the magnets are closest to the coils. And it's this firing that actually generates the torque and increases the kinetic energy in the system. And we'll be firing at 90 degrees from that,
+
+
+
+ where the magnets are furthest away from the coils and where any back EMF due to the rotation of the motor will be minimized. That is really a control pulse. And what we'll be looking on the oscilloscope at is the difference between the control pulse with very limited back EMF and the active pulse of the pulse that's really adding the kinetic energy into the rotor and examining and being able to demonstrate the counter EMF in the system.
+
+
+
+ The next part of the experiment is to perform exactly the same test on an orbit configuration. We have exactly the same physical configuration. We have a rotor which has two sets of magnets, 180 degrees separated, and two coils. The significant difference in this case is the arrangement and the structure of the coils.
+
+
+
+ Again, what we'll be doing is firing at two angular positions. We'll be firing where the magnets are closest to the coils. And we'll be firing a control test or a control pulse where the magnets are furthest away, 90 degrees on.
+
+
+
+ What you can see in the scope is that the current trace profiles for the control pulse and for the active pulse are identical. And this is demonstrating that in an orbit configuration, there is absolutely no back EMF due to the motion of the rotor.
+
+
+
+ To keep principles behind orbit, what we're saying is that back EMF is-- or the cancellation or removal of back EMF from the system is an absolute necessity. And the reason for that is that if you consider a classic pulse motor, what in the control test or the test where there's no back EMF on the system, you have effectively a resistive loss only. When you fire like this, you end up with an inductive loss. If you look at the orbit pulse, what you'll see is the control pulse, which you can just about see here, they're directly overlaid, is identical to the pulse that is causing the motion of the rotor.
+
+
+
+ And that's a very, very key principle.
+
+
+
+ Not only are we saying that we're producing energy of the rotor and that is thermodynamically free, what we're also demonstrating is that the very act of the rotor doing work is actually causing a energy gain in the electrical circuit itself.
+
+
+
+ And again, what I'm going to do here is play a short test that we shot earlier. The reason to shoot these earlier, by the way, is that setting up these scope overlays is quite complex.
+
+
+
+ So we shot these earlier-- this one was shot earlier today and the other one was shot yesterday. So we have two sets of magnets on the rotor, 180 degrees separated, and two coils.
+
+
+
+ We are firing the coils at two different positions. The first one is when the magnets are facing the coils. And the second one, which is the control pulse when the magnets are furthest away from the coils.
+
+
+
+ And we are comparing the energy needed to create the magnetic field when the magnets are facing the coils and when the magnets are furthest away from the coils.
+
+
+
+ You can see four traces on the oscilloscope.
+
+
+
+ The first two traces are the current flowing through the coils.
+
+
+
+ The blue trace is the current flowing through the coils when the magnets are facing the coils. And the yellow trace is the control pulse.
+
+
+
+ The other two traces are the energy needed to create the magnetic field. And again, the blue trace is the energy when the magnets are facing the coils. And the yellow trace is the control pulse. What you can see here is that the current is the same for both positions when the magnets are facing the coils and when the magnets are furthest away from the coils.
+
+
+
+ And you can also see that the energy needed to create the magnetic field is higher on the control pulse than it is when the magnets are facing the coils.
+
+
+
+ You can see four traces on the oscilloscope. We have the voltage across the battery and the current flowing through the coils at the end of the pulse.
+
+
+
+ These two traces are the voltage across the battery. The blue one is when the magnets are facing the coils. And the yellow one is the control pulse.
+
+
+
+ The same for the current. The blue trace is when the magnets are facing the coils. And the yellow one is the control pulse. So what you can see here is that there is no difference between the blue and the yellow traces. And it demonstrates that there is no difference in the energy of the field collapse when the magnets are facing the coils or when the magnets are furthest away from the coils.

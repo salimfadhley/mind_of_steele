@@ -1,0 +1,285 @@
+ After we posted Lloyd Stovall's take on Maxwell Chikombuzo technology, a number of experts in the field reached out to Lloyd and got into this heated debate. Sieth Technologies watched the video too, and their response was crazy. We will talk about it later. For now, listen to this and let me know what you think about it. You've just violated a fundamental, you cannot create power from nothing. I guarantee you, I will put my life on the line that you have less power coming out than you put in, is lower than your power in. But first of all, it's producing more energy out than you're putting in, technically. And they don't like that. So they're trying to suppress it and they do everything they can to suppress that. Okay. I'm going to have to push back on that as we need more energy out than in because again, once you take into the pulse width, when you take in the time it takes to create that really high spike, what you're doing is time is the denominator in that equation. So if you shrink time down to almost zero, that value gets expected in erroneously large, like it's because of the time being so small. So that's why I was asking about the time period. That's what makes it large. Okay. So, but you're not getting more out than you put in. Okay. You're not getting that. Here's, let me break that down. Okay. The MOSFETs are very efficient of utilizing energy. So what you're doing is that because of what it's made out of, what it's made out of, it creates back EMF. That means it switches from North to South. When you switch that at high speeds, it does act like a generator.
+
+
+
+ It's actually creating these spikes. That's what we... The real thing you can do is explain how EMF translates to generator.
+
+
+
+ Electromagnetic waves is in a motor.
+
+
+
+ The magnet... I know, but how does the EMF, the Electromotive Force, translate to generator?
+
+
+
+ A generator produces EMF, back EMF, and forward EMF. Electromagnetic waves. That's the whole concept of motor.
+
+
+
+ It means that it creates electricity when you have back EMF, which causes the spike.
+
+
+
+ Everything that's creating the electromagnetic waves, that means magnets and electricity,
+
+
+
+ you're producing or generating power. The back EMF means that it's trying to also generate as well as make a motor move. So it's trying to go both ways. And one force has to overcome the other.
+
+
+
+ So... That's great. So that's increasingly incorrect.
+
+
+
+ There are amps in this conversation. I know you were going to bring that up. So the EMF and motors and generator, they just...
+
+
+
+ I'm sorry, you got it. Please don't let us lie past that point, because that's... Do me a favor and go to the last video I did. Look at the demonstration that we did where we show how we take a speaker that cannot even run an LED light. And when you put an LED light and you tap it, because of the rapid tapping, it causes the LED to light up temporarily and go out really fast.
+
+
+
+ That is... There's the time period I was talking about. Okay. Wait, wait, wait, wait, wait. Let me finish. That's the magnet. Wait a minute. This is why we don't understand. So if you finish out the video, it's a real short, that first part. Before you go to your video though, I would like you to discuss EMF, specifically not electromagnetic waves, EMF and its relationship to motors, specifically you said generators, and where is current at in that conversation? Okay. Let me slow down. And what I'm trying to get to you if you look at the example first, not only did it answer the question on how we can use and utilize those spikes.
+
+
+
+ If you look at... No, I know. I know. Okay. Wait, wait, wait. Let me finish because everybody, if you cut the information off, what we end up doing is that you're only using the technology that you're used to. So if you're used to a technology and you're versed in the technology that you're used to and someone's trying to show you something new and you go, "No, no, no. That doesn't make sense," because you're going back to the old way. So I'm introducing to you how those spikes can be used. If you watch that and I said, "Well, did that solve the problem?" Then we can move forward because that is working on back EMF spikes and it's working as a generator. The example that I put in there and actually using those spikes, it's just perfect. That's why I just say people, if you go to the video and watch the first little part of that and see the things, it just blows a person's mind that someone would actually use it in that manner. Motors work on electromagnetic waves. That means energy. That's what it comes from. I talk with dudes, "Why are you saying electromagnetic waves?" But you're talking about EMF.
+
+
+
+ Because in a motor, you have a magnet and you have wire.
+
+
+
+ Why you're explaining that, can you send a link or something to your video? I can at least have it. I see the confusion.
+
+
+
+ I see the confusion. Hold on, hold on, hold on, because I want to make sure ... I want to see what he's talking about because it might be a learning moment in there.
+
+
+
+ Does anybody know where the video is? I don't know even where to look. Go to Lloyd Stovall and go to YouTube. My name ... Okay, so you're just your name? Okay. Yes. All right, good. Keep talking. I'll do it in the background. Okay, so in a motor, you have a coil wire that's spinning in a ... I get that, but I'm confused in the way you're describing it, brother. When you're saying EMF and then you say electromagnetic waves, so you're saying electromagnetic waves include magnetism, radio waves. Okay. I'm saying ... So you got magnets put ... That's a confusion there.
+
+
+
+ That's why we're confused because you keep saying EMF and then you're saying electromagnetic waves. Okay, so ... Magnetic waves. Don't ... Magnets put out magnetism, right?
+
+
+
+ No, magnets produce a magnetic field. Okay, is that a wave?
+
+
+
+ It's a magnetic field. Yes, we know ... It is, like ... It's not a magnetic field. Okay, but you're saying field, but the way they describe it, a field is also a wave, right?
+
+
+
+ No, because you ... So you got a field without a wave. It's not a magnetic field theory. Yes. So, yeah, it's not one-to-one. It's not the same thing when you're talking about a magnetic field. Look, we live within the Earth's gravitational field. Right. The gravitational field does not define gravity.
+
+
+
+ Yes, but in the field, the magnetic field, I'm asking is that also a wave?
+
+
+
+ Yes, it is a wave, technically, but it has nothing to do with the electromagnetic waves that you're talking about. If you're talking electromagnetic wave, you're talking about a spectrum, an energy spectrum. Okay, but ... Magnetic field, you're talking about a single entity. Okay. So, what I'm saying is that when you put electricity into the wire, and that wire is spinning into that magnet field that you got, you just introduce electricity and magnetism, electromagnetic field or waves, because you're spinning it, and the frequency comes in on the cycle of the motor spinning, the wire in the magnetic field. No offense, brother, that's greatly incorrect. Okay, so then, like I said, look at the video and explain how I did that. Explain how that was possible. I'm sure we could, but your experimentation doesn't rule out the need for language. You know what I mean? If we're describing ... We didn't know what a magnetic field is. I tell you, if I tell you, "Were you using a hexagonal screwdriver?" And then I pass you a flathead, would that make sense to you? And then I tell you, "Go watch my video?" Would that make sense to you? Well, again, what you're saying is that you don't ... Wait a minute. You have a hexagonal screw. Wait a minute. You're making a point, and I get your point.
+
+
+
+ But the whole point is that every scientist who really gets into the field has a ... Has a point where he says, "If you don't describe something in my terms, I won't accept it." So guess what? You have scientists or inventors like Nikola Tesla who has created things outside that realm, and you say, "I dismiss it." Tesla did not create anything outside of that realm. George Westinghouse invested thousands of dollars into Nikola Tesla. Okay, so you really thought he was going to transmit energy over the antenna?
+
+
+
+ You thought he was going to actually do that? It's impossible. Right now, we're doing it right now. You're doing that. Stop it, man. You're not transferring ... You're not transferring amps over the way. That's impossible to transfer. No, no, all right, all right. All right, so you see how you're throwing the words in? What is an amp, then? Because I'm confused. Nobody said the way ... Current. Current. We're not discussing current is ... What are you talking about? Current can't be transmitted. That's what we're talking about. Amps can't be transmitted. I know what I'm talking about. What are you calling ... When you say current can't be transmitted, if you got struck by lightning,
+
+
+
+ what would that be called?
+
+
+
+ High voltage spikes.
+
+
+
+ And what would kill you with also part of that lightning was the average amperage in lightning, because what you just said was another ingredient to be correct. Lightning has amps. Yes, lightning has amps. So therefore, you can get lightning from something out of the air. So that would be correct what you just said.
+
+
+
+ But lightning is a physical wave. It's not just unseen. No, lightning is a plasma. Yes, exactly. So therefore, it's more at the light spectrum than it is just a regular wave being transmitted. No, no, no. No, I don't have to deal with your brother. We want us to move forward. What are the challenges? We want to understand your definition. So if you're saying ... Because you're using words that we use, but you're using it in your own way. And so we're just not ... Well, I'm using what every paper has wrote, that they said, "Nicola Tesla's antenna would never work, because you cannot transfer amps long distance." That's what they wrote in every picture. Yes, that's what they wrote. While we're talking about transferring amps in long distance, right now we want to understand how are you moving a motor without amps. Because you just talked about a generator using electromagnetic waves. You don't transfer amps, or you transfer current.
+
+
+
+ That's what I just said. That's what I was saying. I said post current. That's what you're transferring. It turns it into ... I know how far you'd be transferring current. No, the way you're saying it ... There's a lot. There's no ...
+
+
+
+ You transfer amps ... The current that you're transferring ... There's post current.
+
+
+
+ And I did say in the beginning that current is different than amps.
+
+
+
+ They're two different phenomenons. So I can see he's using the terms, but he's using it at his own volition. Yeah, he's pulling a wallet. I'm okay with you transferring the knowledge, for lack of a better term here. I'm okay with you transferring the knowledge, but understand if you're not reaching me, if I don't understand, I would at least hope that you want to try to explain it in a different manner that I can. You can't just say, "Hey, you just don't get it." That's not a good back and forth in the conversation. So when you're using these terms, sometimes you're using them specifically, and then other times you're using them as like a placeholder. Like, "You know, a wave is a field." "Wait a minute, how are you that nonchalant with that?" But then you say, "Current and amp, you're very specific with that." So you're like in and out with what you're standing on. So that's the confusion for me. And I'm sure other people are hearing it too. And that's the confusion that they've always put on there, because they have a specific way you have to tell the scientists, people who are putting out this information.
+
+
+
+ I told you, scientists, that they know.
+
+
+
+ They have a specific way you must say everything. And if you don't say it in those specific sequence, then they have a problem. They say, "Oh, this doesn't work." Do you understand why that is true, though? Do you understand why that's true?
+
+
+
+ And I'm asking you, do you understand why that's not true? Because you can't advance if you don't try new things. I will explain to you why it is true. I will explain to you why it is true. Because if I explain it the exact way I did the experiment to you, you can repeat it the exact same way I did it. The same units, the same components, the same circuit, the same... I don't need to change the language. This is how I know it works. That LED turns on because I put 3.7 volts on it, and I limited the current with a series resistor. Now, if I told you the current is a wave, and that's why it's important. It's to transfer the knowledge. So I'm going to stand here and say that we shouldn't be speaking specifically. We should be. Okay. That was very precise and straightforward, easy to comprehend. So why does the experiment work? Explain it. Drop the rider. What experiment? See, again, that's why we broke down because you didn't go... Do you have a bunch of videos? I don't know. No, it was the latest video out there, and right in the book, it shows a water dropper dropping into the water. To explain transit energy. This is the topic that no one wants to touch. The 13 minute video, you mean?
+
+
+
+ Yeah, but you only had to wash the first few minutes. But to my understanding, again, if you're saying that the coil is dissipating all potential energy... Yes. And then somehow that light turns on. You've just violated a fundamental... You cannot create power. Power from nothing.
+
+
+
+ Like, you can't create energy from nothing. So there had to have been some conversion. So, again, that's the part where you're going to have to show me, you started at zero and you ended up at five. Okay. That is that. You would get Nobel Prize for this. Okay, and we'll start with that. So the word transient energy, transient energy is how it's spelled. Tell me the definition of it. How cool I feel.
+
+
+
+ Transient energy? Yes. Oh, he's asking the question. I was letting him talk. Oh, he's not that... He's a... He's a... Isn't that like kinetic energy? Energy that is being utilized or emotion or work? No. No, these are spikes that happen randomly in electronics and what's called... I already got a page that I want to show you. All right, can you read that? Can you read a definition of it, then? Because you're saying no... Transient voltage often referred to as voltage transients or electrical surges. That's kind of what it is, electrical surge, is a sudden, short-lived spike in voltage levels within an electrical circuit. So this is why it's damaging to circuits, because the voltage is extremely high, relative to where the operating of the material can handle. Yes. So if you're talking about... Yes. I'm sorry, go ahead. One reason why you imply like fuses and stuff?
+
+
+
+ Yes. Yes. Yes. And also, there's a circuit design you can actually have shunt capacitance that actually resists... Exactly. Exactly. And you can actually control it that way as well. But the point is, it's... Oh. You know what a really good example of it is? Electrostatic. Mm-hmm. Like when you touch a doorknob. It's really high and it shocks you, but it's so short-lived, it's not going to kill you. You feel it, yes. And it is extremely high relative to the doorknob's potential, like essentially zero. But because of that transfer, it is almost... It's immediate.
+
+
+
+ That's why I'm asking about the harnessing part, because if it's an immediate, you're going to need a bunch of those just to collect that energy. Okay. You need a bunch of them. That's why it was so important. If you have a bunch of them... Wait a minute. That's why it was... I don't think you can get around yet. Not damaging your system. These signals are detrimental to circuit design. Yes. Exactly. That's why it was so important for you to look at the example. So you've already covered the transient energy, and we are in total agreement on exactly what those are. Now we're getting to the point, how did we harness them? I think Nikola Tesla... Well, I know Nikola Tesla was trying to say the same thing. He says, "You want to know the whole universe, think on the lines of vibration, frequency, and energy." And he just left it at that. So it was so open-ended.
+
+
+
+ When we apply those things to the circuits that we're doing, we start to see that the Famineur that they said they couldn't control those spikes is not true.
+
+
+
+ They don't want us using those spikes because they don't have an explanation for what transient energy actually is. So they discount it. When you go to any AI and what's in it, they say, "We discounted it. We understand that we know what the phenomena is, but we discount it." So I was saying, if you discount something in science, either you have to go so far into the future for us to start looking at it again, or it takes open-minded people to sit down and say, "Okay, let's look at this, find out as best we can what it is and how we can harness it." And then you made something new.
+
+
+
+ So again, the only pushback I really have is it's too short-lived to be useful. High voltage doesn't mean high power, for one. Because it's high voltage, it doesn't matter. If it's high current, it doesn't matter on its own. It's the power that matters. That's what we transfer. Not the current, not the voltage. We transfer the power through different mediums. So if you're selling me that the voltage spikes, but the time frame is so minuscule, what am I going to use that for if it averages out to essentially zero?
+
+
+
+ If it's not a constant signal for me to capture every time, every time, every time, every time, if it's not constant, then what am I going to use it for other than damage in my circuit, for one? Okay, and this is where frequency comes in. See, if your input energy was from a natural energy source like solar wind or water or otherwise, then it would actually make sense. You just, wait a minute, did you put me on mute?
+
+
+
+ I just said my energy comes from solar.
+
+
+
+ Oh, so you're using solar energy. Okay, so let me go through the explanation again. You're using solar energy to pass that through the MOSFET. Yes. The MOSFET.
+
+
+
+ Transforward over to current.
+
+
+
+ Yeah, to power LED bulbs that then use as source for a secondary solar panels.
+
+
+
+ That's going to know produce electricity for you. Okay, that's what I'm asking. Wait a minute. Would it be more efficient to just set up the secondary solar panel or just use solar panel and then again, you didn't hear me.
+
+
+
+ Wait a minute.
+
+
+
+ Did you hear the explanation on how I set up this electric city? Did you hear this?
+
+
+
+ You're going to be losing energy somewhere. Okay, yes, we're losing energy somewhere. But what I'm saying is if you didn't hear what I said, then you can never. Okay, so how many solar panels do we have? I got two in your basement and the ones that you got outside. That's what you're misunderstanding. That's our disconnect right there. Okay, I'm saying let's go over the one unit. I take LED lights, wrap them around foam core. And when you wrap them around a foam core, you have two sides.
+
+
+
+ Then I sandwich that LED lights, which only runs on five volts. Okay, and we put them between the two 20 watt solar panels.
+
+
+
+ We get only voltage. We lose our amps because of the LED light being not an intense light.
+
+
+
+ If you do that, we now have 17 volts with two different sides back the top and bottom. So we have 17 volts. If you put that 17 volts into that MOSFET as the power source, that means the bottom one, and then take the top source. This is where you lose in power and put it in for triggering the MOSFET to trigger at high speeds.
+
+
+
+ Okay, you're now transferring.
+
+
+
+ What's what's top and bottom of a MOSFET? This is what the energy thing you have to go through the rest of the video. That is my system. And I'm only the only thing that we're doing is we're just getting our current back using post current and everything you just said, you've already got it. But in a minute, we're saying the same thing. You're losing energy, but it's coming from a five volt source. The energy, it comes with the efficient of the LED lights. So I guarantee you the voltage times the current coming in is higher than the voltage times the current coming out going out.
+
+
+
+ No, because the current the current going on is it has to know if you prove that that is not right. Then again, you are going to be the only man to ever experience this. And you should get a prize for this. If you can tell me that that statement is true, you get more power out. No, we don't get more power. We get transfer power. Wait a minute, because when I said voltage times amps in is greater than voltage times amps out, what that translates to power in is greater than power out. No, I understand. But I'm saying all I'm saying is is that it's a transfer energy. I'm changing high voltage spikes and I'm getting post current out and the post current is higher than what the solar panels will produce because they are not transferring voltage brother.
+
+
+
+ What do you mean? I'm not putting voltage. You're transferring energy. Energy gets transferred. Not voltage, not amps, not as individuals. What is a power in and hold on. It is a power in power out. That's why you cannot just say voltage because it depends on what that average is. I can get high current, but a really low voltage powers crack. Yeah, it's a duality. You can't just say voltage. I put in a voltage and I get a current out. Yeah, that's nice. But what is your power in versus power out? I guarantee you I will put my life on the line that you have less power coming out than you put in.
+
+
+
+ So with that said, you don't lose any. The only thing you lose really is energy through the transfer. The conversion. It's always going to lose if you show you get more power in more power out than you put in. You deserve a prize, brother. OK, so here's the thing that you disconnect.
+
+
+
+ If I'm rapidly putting high speed switching in this, isn't that a form of energy?
+
+
+
+ You're putting energy into the system. Yes, I'm following. OK, so I'm saying is if you're moving, if you're taking a frequency that's moving at a sonic speed, OK, and you're putting it into that MOSFET,
+
+
+
+ am I going to get the same amount of current, which is shown on the solar panels, which is one amp. OK, one amp. We're rounding it off. One amp. Are you saying that we're posting that MOSFET at sonic speed? OK, that is only going to produce one amp of pulse current out.
+
+
+
+ It depends. OK, so we at least got there. We at least got there. Yes, but you can also have it where it gives you more current. You can also have it where it gives you less current. That's why I said it depends. But at the end of the day, you're not going to get more power out. I didn't say that. You keep saying it. So why are we saying it's a monumental thing that we're getting a higher current? We're not. We're not. I keep saying that over and over that we're not. You said current. Voltage in, current out. MOSFET. That's how it operates. Yes, but we're transferring voltage just like a transformer. You either step it down or you step it up. You can't have both on both ends. You're not going to have higher amps or-- You can, but you would use something other than a MOSFET. OK, so all I'm asking is, is that we put high voltage in from the solar panels.
+
+
+
+ And I told you that I'm not a technician. I'm a person who tinkers with stuff, redo things to try to explain it to people who really don't have any idea about it. So I said, if I start working on these things, I can understand them better. So that's all I do is this private research from my private librarian or library, as you say. But the whole point is that I did this for experimental purposes.
+
+
+
+ But when you explain what someone else is trying to do because he's trying to make a fast buck and you expose that, it went viral.
+
+
+
+ And I haven't changed my stance on what I said. We both agree on exactly what this MOSFETs do in the system that I work. We all agree on that. So the whole point was-- Respectfully, I don't have-- like I said, this is my space. And I don't expect everybody to know all this stuff. But I don't do this as a hobby. I do this as a career. So it's not me just shooting in the dark. I do this. I build MOSFETs. I build amplifiers. I build circuits, systems, efficiency. I know the nuances of just what that MOSFET can do. Metal oxide semiconductor field is like-- build a FET transistor. That's what MOSFET means. And that just means you put a bias on the gate and the drain current increases because there's a-- There's a charge carrier current that's in the middle of the device. It heats up because there's resistance on that line. That's inefficient. You're voltage on the drain and you're grounding the source. All of these things. I know the science of it, not just theoretically, but actually using it, implementing it, and optimizing it. So when you talk about using that spike--
+
+
+
+ And I'm saying to you, I know that spike very well because it's a problem in RF design. It is a problem because it brings within the system. And certain components fail when that ring hits it. So you got to be able to filter it. How do you filter it? You better know the frequency. You better know the amplitude. You better know how to use it. Do you use shock capacitance? Do you do parasitic capacitance? Increase, decrease that. CDS, CGS, all those things. They play a major role in all of that to eliminate that. Because technically in RF design, it's useless and damaging. And that's why we don't use it. Because in order to use it, you got to have a system large enough to even sustain that large voltage pulse. It's a large value. That's why it's damaging. And that's why you want to make sure it doesn't get near your system. So when you're talking small electronics, electrostatics destroy small electronics. Unless you use... It's just a known fact. And let's work out these ideas. But my intention was to just do this as experiment for my company and talk about these things. And all I get is people saying things, you know, if you go through my videos, Oh, you can't plug an inverter on itself. So I made a whole video that says this guy says if I take this plug, which is in a loop,
+
+
+
+ and I plug it into the system of this inverter, that this inverter is going to blow up. So when I do it and the inverter don't blow up, then everybody comes at you. Well, it'll eventually run down. That wasn't the point of it. You said it was impossible. Then when I proved it wasn't impossible, you go jump off on a new thing. And I said, this is what we're saying. We are sitting and trying to come up with things new. And you have to break eggs to make something new. So maybe I'm running in an inefficient way. But my system does work and other people said it works. Now how long it works. That's what I'm still running over eight years and is running in my basement today. OK, and it's running my whole household.
+
+
+
+ OK, so.
+
+
+
+ Yes.

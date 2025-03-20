@@ -1,0 +1,11 @@
+
+
+ The Spheorin Orbit 2.0, all hooked up and running, producing a miniscule amount of output power and consuming negative input energy.
+
+
+
+ That trace is the input voltage, middle trace is the input current, and this is the integral over time of these two traces multiplied together. So this is the total energy input to the system. As you can see, it is decreasing, and that's what you got.
+
+
+
+ So, Stjorn, to eat your hearts out, I have fully replicated your claims with respect to this device, and I can tell you exactly where the error is, if you're interested. Thanks for watching.

@@ -1,0 +1,105 @@
+ We got in touch with Dr. Eli Giacometti, who holds a PhD in signal processing and a bachelor's degree in electronic engineering. In this video, he explains a lot of concepts in regard to Lloyd Stovall's video on Maxwell and also about Maxwell Chikambutso technology. And whether it works or not, listen to him and let me know what you think about it. And also my email is in the description in case you want to reach out for any burning discussions. Now let's talk about Maxwell inversion.
+
+
+
+ If you switch on and off a MOSFET, it is absolutely true that you are going to generate spikes. I there first let me introduce myself.
+
+
+
+ I am an electronic engineer and have been working on medical devices most of my career in X-ray imaging, gamma rays imaging, fluorescent devices, wearable and implantable medical devices. I hold 25 patents in this field.
+
+
+
+ As I am now retired and know few interesting things, I decide to share my knowledge, theoretical and experimental with young people. So I teach solar energy to my students in Malaga's car and teach sensor technology, conductivity, electrochemistry and so on in Vietnam and Peru.
+
+
+
+ First let me introduce some definitions. This is my whole definition. You can change whatever you want. A magnetic field produces by a stationary magnet is a static property that extends away from the magnet location. To grab energy from that field, you need to move something, for example a coil. The flux variation in this coil will produce electrical energy, but this is only a conversion of the mechanical energy, the motion, into electrical energy with losses in the wires. Electromagnetic waves can be seen as two vectors, electrical field and magnetic vector that propagate in the air or other medium. An antenna is a way to produce such electromagnetic wave, for example for radio transmission. But as long as you switch voltage at high speed, you induce electromagnetic wave that can disturb other system nearby. A lot of people are working to minimize these effects.
+
+
+
+ Just let me recall that depending on the emission diagram of the antenna, the power density of the RF signal vanishes according to the inverse of the square distance from the antenna. That means that with 1kW of RF power at 1km away from the antenna, you will receive milliW to microW of RF energy per square meter.
+
+
+
+ You can perfectly grab this small power. There are YouTube videos showing this process, but you can power an electrical vehicle car using this process. Only low power device can be powered, for example low power sensors. A transformer is a way to change the characteristics of an input source to get an output source. It cannot create energy and has some losses in the wire and in the magnetic circuits. So you can fill the heat produced by a high power transformer. Sure you can change the voltage to very high voltage, for example using tesla coil and current for a welding machine. But the output power is always less than the input power. Only superconductors have no resistance, so no losses.
+
+
+
+ A DC voltage source is a power source that is supposed to maintain a constant voltage, whatever the load is applied to the source. A perfect constant voltage source does not exist. There is always an internal resistor, usually not physically accessible, like in a battery. You can estimate the internal resistor using an internal resistor meter. I own one of these and measure, for example, 0.1 ohm on a brand new AA battery.
+
+
+
+ So the output current is always limited by this resistor. It's generally dangerous to make short circuits on a battery because all the chemical energy presence will be transformed into it. It's the energy conversion process.
+
+
+
+ Another example of DC source is the output of a solar panel. Near the open circuit we have approximately a current source, see the I vs V curve of such panel on the web or on YouTube.
+
+
+
+ By the way, let me recall that the yield of a solar panel is around 20%. This means that with our sun providing 1 kW per square meter of energy, you will only get 200 watts of electrical energy.
+
+
+
+ The light spectrum of LED is not well suited for solar cells because photovoltaic components were optimized for the sun spectrum, which contain a lot of infrared power. MOSFET can be seen as variable resistor or switches depending on the way you drive the gate pin.
+
+
+
+ When increasing the gate voltage, for example for M-MOSFET, you can reduce the resistance between source pin and drain pin to tens of milli ohms. Take a look at data sheets of a classical MOSFET transistor.
+
+
+
+ This can be done at high speed. If you switch on and off a MOSFET, it is absolutely true that you are going to generate spikes.
+
+
+
+ Let me explain a little bit this phenomenon. When you have a coil or a capacitor connected to a MOSFET, a small amount of energy from the battery or the power source is stored in the electrostatic field for a capacitor or in the magnetic field.
+
+
+
+ When you switch off the MOSFET, this energy cannot disappear immediately. It will be dissipated in the surrounding of the MOSFET, like high voltage fast spikes, and can destroy components.
+
+
+
+ But this is only a transformation of the previous stored energy coming from the power supply, in any case a magic creation of energy. A lot of electronic designers work every day to solve this problem to improve reliability of systems.
+
+
+
+ Usually, the stored energy gets dissipated into heat and is seen as a loss in the process. For example, a DC to DC converter faces problems and the output power is always less than the input power.
+
+
+
+ The yield can be as high as 95% with the cleaver design. In conclusion, MOSFET can switch at high speed, but this will induce losses in the system. This is the reason why we use 8-skin sync with MOSFET.
+
+
+
+ Electromotive force in electrical motors. I prefer counter-electromotive force. When you apply voltage to a motor, the motor rotor will move and an EMF is generated by the coil in general to try to resist to the motion.
+
+
+
+ This is one reason why you can increase the speed of your motor as you want. You can compute EMF using a model of your motor. A liquid equilibrium is obtained between the power supply that power your motor and the EMF. A motor is just a way to transform electrical energy into mechanical energy with losses.
+
+
+
+ The yield of a motor can be up to 92-95% with the well-designed motor. Their losses are usually transformed into heat.
+
+
+
+ Now let's talk about Maxwell's invention. The RF power from a radio station is not a source of power according to SACE technology explanation. The energy density is too low. SACE technology explains that the RF power comes from celestial bodies like the moon, the sun and the earth. The moon emits very few RF energy except the light reflected from the sun. The earth produces RF energy. It is not easy to get numbers in this field. The sun is very active and mainly produces visible infrared light and RF power. Sometimes the high activity of the sun can introduce problems into telecommunication because a lot of RF power is emitted but is a rare event. My main concern is as follows. Using MOSFET or other systems for power conversion, the output power is always less than the input power. So the kilowatt of power needed to drive the electrical vehicle motor is already here and captured by Maxwell's system.
+
+
+
+ So when we face a problem, if kilowatt of radio frequencies power are everywhere and as our own body is a receiver of this RF energy, see a lot of regulation about for example mobile phone and RF tower, it is strange that nobody is hurt by such an amount of power. Our body loves to absorb RF energy and will get eaten or our cells and DNA will be destroyed. If the wavelengths of RF is long, 100 meters, you will need a very long antenna to grab RF power.
+
+
+
+ And if the wavelengths is short, your body will absorb this power and be altered in some way. Another strange thing is related to the site tech web where the maximum power of the EV car is expressed as only 80 watts, which is very low compared to kilowatt usually given by car makers.
+
+
+
+ Let me add that there is no need to build a complicated setup to test the Maxwell generator. You need only 2 mm and a set of high power resistors. One millimeter is used to measure the voltage across the generator. The other is used to get the current flowing in the resistor, which is called the load. This is exactly what I do with my student in Madagascar. We choose one resistor, for example 1 ohm, make I measurement and V measurement and then change the resistor with a new one, for example 5 ohm and so on.
+
+
+
+ By the way, we get a classical IV curve, current versus voltage characteristic, which is well known for solar panels. This curve is readily viable for the solar panels that you can buy. You just have to ask the provider. So I will finish. I think I give you some information that I think are relevant about the invention. It's up to you to decide if the invention is plausible or not. Thank you for attention.

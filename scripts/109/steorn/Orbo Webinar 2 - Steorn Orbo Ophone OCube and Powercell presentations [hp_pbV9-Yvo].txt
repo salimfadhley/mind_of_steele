@@ -1,0 +1,177 @@
+ cells and they wouldn't appear in any product, they're simply to demonstrate
+
+
+
+ core function. The actual devices are obviously professionally manufactured and packaged. Okay guys, this is now the okay this is now the Arbo webinar 2. This is Stefan from ovaunity.com. It has a single USB port that can provide up to 2.1 amps output so it can charge both tablets as well as smartphones. It's the capability to provide a single tablet charge a day or between two and three smartphone charges. This product is currently in production and will be shipping within the next six weeks. For people who are interested in ordering it they need to email us at orders at ovaunity.com and the price is 1200 euros plus shipping. The iPhone is going into production later this year and will be available within the first couple of months in 2016. It's a fairly simplistic phone. It's a GSM, GPRS, Edge phone, a very basic function retro phone and the components that are inside it are again a standard phone piece of electronics, a standard lithium-ion battery and two Arbo power cells. This is a phone that will never need to be recharged. This is available for pre-order by emailing orders at ovaunity.com. It's available for a price of 480 euros plus shipping. During the first half of 2016 we'll be introducing some more products. I'm going to quickly show you two that are in the pipeline at the moment. One is an e-cigarette. For those who don't know e-cigarettes, electronic cigarettes are battery powered. The e-cigarette that we're introducing with our partner Wicked E-juice is a no need to charge product and we expect to have that in the market by summer 2016. In addition we're introducing a game controller for the popular game consoles and again this product is a product where the user doesn't have to charge it and again we expect to have that in the market before summer 2016. It's interesting. For user testing where it needs only a small... I would refer you to the Arbo Facebook page. Time to... For anyone wishing to purchase the old phone or the old cube I would ask you to email orders at arbo.com. Finally I would like to take this opportunity to thank you for taking the time to look in today. Now it only needs some
+
+
+
+ small time to operate and then has long enough time to be charged and supported together.
+
+
+
+ So...
+
+
+
+ Hmm is that just some video? Oh okay.
+
+
+
+ Let's see. Let's see what the comments say. David okay thanks for 99 euros. Oh phone. It's outrageous. It's outrageous. Fucking rip off. It's working for me in Galway.
+
+
+
+ No prize. No prize for the oval. No it is over. What a joke. That's it. More scams out of Ireland. Hmm so...
+
+
+
+ Is there still a real webinar coming?
+
+
+
+ Oh let's hang on. Hang on. Let's see.
+
+
+
+ The live stream is over. Thanks for watching. Can we replay that somehow? Let's see.
+
+
+
+ Let's see.
+
+
+
+ Oh come on. Probably needs to render or something like this.
+
+
+
+ Thanks for coming. The presenters and the broadcast. Hmm. Ah to that I was late a few minutes because my PC didn't record.
+
+
+
+ Shit. All hours at all. What comfier the RIT was press shipping 404. Hmm. What was it? Oh no question.
+
+
+
+ Is it over? You need to own an electric. Where's o-girl?
+
+
+
+ Glad I only wasted 10 minutes. Hmm let's see if he can get this. Ah and replay here. I'll just subscribe.
+
+
+
+ It's probably not yet rendered so it doesn't play.
+
+
+
+ Too bad. And.
+
+
+
+ Okay maybe I stop now and try to store this URL.
+
+
+
+ And watch it later and paste it in here.
+
+
+
+ Hmm. Like for his.
+
+
+
+ It's really over already.
+
+
+
+ Damn. I did this the first 10 minutes.
+
+
+
+ Not yet.
+
+
+
+ I have not yet rendered on YouTube. Okay seems guy it's over.
+
+
+
+ Let's see. Okay.
+
+
+
+ Welcome to the second in the series of webinars about our arbo energy technology.
+
+
+
+ Since the last webinar.
+
+
+
+ I've had a number of questions about the technology. And what we're going to do initially today is discuss the putting together of the cell the battery and the implementation into a product.
+
+
+
+ We're going to introduce you to two products that go on sale today directly after this webinar.
+
+
+
+ From there we're going to discuss a series of arbo products that are presently in the arbo pipeline. And finally we're going to go through the functions and functionality of the orc. So what we're going to do here is show a very simple format. The basic construction of a cell that forms part of the power pack. Really there are only two components there is a conductive metal. And there's this specially fabricated sheet that consists of conductive metal strip and then a layer of fairly specialized materials. What's unusual about this strip here is that it is non conducting. So if you look at the ohm meter here you can see that we're in the mega ohm range. So it's very very high resistance and just to demonstrate that the ohm meter is reading correctly. And as you can see the conducting metal itself is as you would expect very low to zero resistance. So again we have
+
+
+
+ a substance here layer that is very high resistance versus a non fully conducting low resistance metal. So in order to construct a cell what we're going to do is measure with the oscilloscope. As you can see I have two ends of the probe shorted out. If I open them up you'll see there's quite a bit of electrical noise in the environment. Anyway what I'll do is connect the
+
+
+
+ positive to one side. And then just to demonstrate that the generation of a voltage is as simple as obviously I'm touching this. As simple as holding this down you'll see that it will stabilize. Now if you want to take any influence that my physical contact is going to do we're just going to simply add a wire folded over. And again this is a simple demonstration.
+
+
+
+ Okay now we trust to fix the wire to this. Fold it over and that's giving us electrical contact on the top plate. And I will simply take this down. So obviously any energy that's being imparted from my hands is now no longer in play. And when I connect this
+
+
+
+ what you'll see is that we have a voltage. The material is piezoelectric so it to an extent it will take a while to stabilize. And it's also quite good at picking up ambient energy. A couple of the things to note about this is that if I short out the cell obviously we will go to a VOC of zero. But de-shorting it it will immediately bounce back to its inherent potential. In many ways that looks very similar to a galvanic cell. Obviously in a galvanic cell you would expect to see some electrolyte allowing ion transfer. In this case as you can see everything is dry. Another unusual aspect is that the VOC which in this case for this size cell is maybe about 0.4, 0.5 of a volt is actually a function of surface area and not a function of an electrochemical potential as you would see in a galvanic cell. So again what we can simply do is short out and release and you will see that we're on a scale there of 100 millivolts. So about 0.3 of a volt coming off this cell. Okay. And again it really doesn't matter how long I short out the two cells. Since we're not degrading any electrochemical potential
+
+
+
+ when I release it it will return to the inherent voltage of the cell itself. What we did previously is that we made a very simple cell obviously hand built and what we've done here is simply connected a bunch of them together and what we demonstrated is that a cell produced a voltage. Obviously a voltage across the load does work. What we're going to do now is simply demonstrate these very simple hand built cells doing work. So they're wired together and I have a resistor and I'm simply going to plug the resistor in and then measure the voltage across the resistor. So as you can see we've got a voltage across the resistor that's steadily rising.
+
+
+
+ That will find its own level. So what we can say about that very simple test is that work is being done. And again it's a slightly curious effect that the more current that flows the more work is done. But again it's just a simple example of work being done. A second simple example obviously any current flowing through here is simply being dissipated as heat through the resistor is that we can do exactly the same thing. Put a capacitor across it in which case we'll be charging up the capacitor. We could connect the battery and so on to do exactly the same thing. But if I take the capacitor I'm going to make sure it's shorted out so that we start at zero. And what we're going to do is simply leave that run. I'm going to change the time scale so that you can see that the capacitor itself does charge i.e. that we're taking energy from these simple hand built cells. Oh okay.
+
+
+
+ Looks good. Oh that's charging now. What did he say? How many milli watts? 100 milli watts per cell? So obviously what you've seen are hand built cells and they wouldn't appear in any product. They're simply to demonstrate a core function. The actual devices are obviously professionally manufactured and packaged.
+
+
+
+ So the O-Cube is a USB charging device. It has a single USB port that can provide up to 2.1 amps output so it can charge both tablets as well as smartphones. It's the capability to provide a single tablet charge a day or between two and three smartphone charges. This product is currently in production and will be shipping within the next six weeks. For people who are interested in ordering it they need to email us at orders at orbo.com and the price is 1200 euros plus shipping.
+
+
+
+ The O-Phone is a product that is going into production later this year and will be available within the first couple of months in 2016. It's a fairly simplistic phone. It's a GSM, GPRS, Edge phone, a very basic function retro phone and the components that are inside it are again a standard phone piece of electronics, a standard lithium-ion battery and two Orbo power cells. This is a phone that will never need to be recharged. This is available for pre-order by emailing orders at orbo.com. It's available for a price of 480 euros plus shipping. During the first half of 2016 we'll be introducing some more products. I'm going to quickly show you two that are in the pipeline at the moment. One is an e-cigarette. For those who don't know electronic cigarettes are battery powered. The e-cigarette that we're introducing with our partner Wicked E-juice is a no need to charge product and we expect to have that in the market by summer 2016.
+
+
+
+ In addition we're introducing a game controller for the popular game consoles and again this product is a product where the user doesn't have to charge it and again we expect to have that in the market before summer 2016. All right. For user testimonials I would refer you to the Orbo Facebook page. For anyone wishing to purchase the old phone or the old cube I would ask you to email orders at orbo.com. All right. Finally I would like to take this opportunity to thank you for taking the time to look in today. (Music)
+
+
+
+ All right. Okay. Just stop the music here a bit because otherwise it might get me a copyright strike.
+
+
+
+ All right. So this was only a short presentation. Pretty interesting. So these cells seem to charge. At least capacity to us and probably then also the lithium ion batteries.
+
+
+
+ But the question is will they last. That's still a big question. So
+
+
+
+ let's see if that the same here. (Music) Still hasn't ran out. Okay. It's probably over. All right. Then thanks for watching and we will see how this all comes out. It's pretty interesting. So for low power devices which are only used in once or twice a day. Not too long. That's probably not a bad solution I guess. Okay. Maybe they can still scale that up to bigger power levels. We will see in the future. Okay. Thanks for joining and watching and please subscribe. Not to miss the next video. And bye bye for now. Stefan signing out. Bye bye.
