@@ -1,28 +1,40 @@
-Link 1 (Intro): In the last episode, we briefly met Simon Goldberg—also known, somewhat inexplicably, as The Spaniard. He was the one interviewing Sovereign Pete, effortlessly making him look like a complete imbecile. And while it might be tempting to think Simon was just doing a public service—exposing Pete’s nonsense with a calm, rational voice—the truth is anything but.
+Link 1 (Intro): In the last episode, we briefly met Simon Goldberg—also known, somewhat inexplicably, as The Spaniard. He was the one interviewing Sovereign Pete, effortlessly making him look like a complete imbecile. And while it might be tempting to think Simon was just doing a public service—exposing Pete’s nonsense with a calm, rational voice - after watching today's video your impression of Simon might change. Mine certainly did. 
 
-Simon Goldberg is, in my opinion, one of the most shameless con artists I’ve ever studied online. If Sacha Stone is the spiritual con-man, Simon is his financial twin—except, of course, Sacha Stone is also his own financial twin, so maybe we’ve discovered some kind of grifter covergent evolution.
+Simon Goldberg is, in my opinion, one of the most shameless con artists I’ve ever studied online. If Sacha Stone is the spiritual con-man, Simon is his financial twin—except, of course, Sacha Stone is also his own financial twin, so maybe we’ve discovered some kind of grifter covergent evolution. If every arthropod eventually evolves into a crab; will every con-artist eventually evolve into something a lot like Simon Goldberg?
 
-So what exactly makes Simon Goldberg such an objectionable presence on the internet? Let’s start with how he likes to 'red-pill' new members of his organisation:
+And before we start; and because Simon is famously a litigious man - everything in this video is 'just my opinion'
+
+-- Ricard Vobes "my opinion" montage
+
+But unlike Richard Vobes, whose opinions are founded on nothing; Mine is informed by the videos that Simon Goldberg has published on his own YouTube channel, 'White Rabbit Trust', and documents leaked from former members of his financial cult, 'You and Your Cash'. Having spent hours watching through these rather tedious videos, I saw a man who claims to be an expert in the financial system, but is clearly pushing a set of wildly wrong, long discredited ideas. I see him pushing emotional buttons, and pushing misleading ideas.
+
+I don't think Simon is an idiot, so my impression is that all of this is on purpose. There's a method to this apparent madness, and that probably has something to do with how he makes his money:
+
+So what exactly makes Simon Goldberg's ideas so awful? Let’s start with how he likes to 'red-pill' people on the Internet:
 
  > Clip 01 - Simon Goldberg: this is a promise to pay money, right? A promise to pay money. Therefore, it cannot be money, correct? It's a promise to pay money. And we call this cash,
  
- Link 2: You've seen this grift before—the idea that a British banknote, a simple piece of printed currency, is actually a promissory note. That the little line saying "I promise to pay the bearer on demand" somehow unlocks a secret legal truth. It doesn’t. It never has—at least not since Britain left the gold standard in the 1960s. 
+ Link 2: You've seen this grift before—the idea that a British banknote, a piece of printed currency, is actually a promissory note. That the little line saying "I promise to pay the bearer on demand" somehow unlocks a secret legal truth. 
+ 
+It doesn’t. It never has—at least not since Britain left the gold standard in the 1960s. Bank notes aren't promissory notes - but if you can make people believe they are, then you can work a classic long-con, like Simon Goldberg does in this video.
  
  This is a con that thrives on confusion, and it’s been wheeled out by many of the repeat offenders on this show—Richard Vobes among them. But for Simon Goldberg, this sort of bad financial advice isn’t just a hobby—it’s a business model.
  
- He runs an organisation called *You and Your Cash*, which charges people up to £1,500 a year for the privilege of being misled. In return, members are promised secret knowledge about how to claw back tax payments from the government—via bogus "1099 OID" forms that have been roundly debunked by actual tax authorities. The scheme is wrapped in the language of exclusive access, contractual obligation, and pseudolegal intimidation—all of which Simon Goldberg insists must remain confidential.
+ He runs an organisation called *You and Your Cash*, which charges people up to £1,500 a year for the privilege of fed nonsense.
+ 
+In return, members are promised secret knowledge about how to claw back tax payments from the government—via bogus "1099 OID" forms that have been roundly debunked by actual tax authorities. The scheme is wrapped in the language of exclusive access, contractual obligation, and pseudolegal intimidation—all of which Simon Goldberg insists must remain confidential.
 
  > Clip 02 - Simon Goldberg: Now, if a promise to pay money is cash, and is treated as cash, on the books of the bank, right? Have a think about when you signed a loan agreement, Do you promise to pay money? Yes or no?
  
 Link 3: Frequent viewers of this show will already recognise this flim-flam. It’s the idea that a signed loan agreement magically becomes a negotiable instrument—essentially, that it turns into money the moment your pen hits the page. We’ve heard this nonsense before, not just from Simon Goldberg, but from Richard Vobes and a revolving door of his YouTube guests.
  
-But here's the difference: Richard Vobes plays nicely with others—he promotes his fellow grifters and participates in the echo-chamber meets circle-jerk that is UK conspiracy scene. 
+But here's the difference: Richard Vobes plays nicely with others—he promotes his fellow grifters and participates in the circle-jerk echo-chamber that is UK conspiracy scene. 
 
-Simon Goldberg, on the other hand, takes a very different tack. His grift involves attacking his peers. He ridicules them, exposes their contradictions, and builds himself up as the one man smart enough to see through it all.
+Simon Goldberg, takes a very different tack. His grift involves attacking his peers. He ridicules them, exposes their contradictions, and builds himself up as the one man smart enough to see through it all.
 
-And he does it for a simple reason: profitable grifting is a zero-sum game. If one of his rivals extracts a pound from a gullible mark, that's a pound Simon doesn't get. So there's no incentive for him to play nice. Instead, by tearing down the competition and cultivating an air of superiority, he positions himself as the one conspiracy theorist who’s actually telling the truth—and all the desperate nitwits looking to offload their cash will flock to him instead.
+And he does it for a simple reason: grifting is a zero-sum game. If one of his rivals extracts a pound from a gullible mark, that's a pound Simon doesn't get. So there's no incentive for him to play nice. Instead, by tearing down the competition and cultivating an air of superiority, he positions himself as the one conspiracy theorist who’s actually telling the truth—and all the desperate nitwits looking to offload their cash will flock to him instead.
 
-The irony, of course, is that his message is virtually identical. He’s just found a different way to sell it.
+The irony, of course, is that there's nothing original here. He’s just found a different way package an old conspiracy theory.
 
  > Clip 03 - Simon Goldberg: Now, I know the answer is yes. You do promise to pay money, what does it become the moment you sign it? What is it treated as? It's treated as cash,
 
