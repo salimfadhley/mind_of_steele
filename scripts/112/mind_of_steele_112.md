@@ -1,48 +1,55 @@
-Link 1 (Intro): In the last episode, we briefly met Simon Goldberg—also known, somewhat inexplicably, as The Spaniard. He was the one interviewing Sovereign Pete, effortlessly making him look like a complete imbecile. And while it might be tempting to think Simon was just doing a public service—exposing Pete’s nonsense with a calm, rational voice - after watching today's video your impression of Simon might change. Mine certainly did. 
+Mind of Steele 112
+---
 
-Simon Goldberg is, in my opinion, one of the most shameless con artists I’ve ever studied online. If Sacha Stone is the spiritual con-man, Simon is his financial twin—except, of course, Sacha Stone is also his own financial twin, so maybe we’ve discovered some kind of grifter covergent evolution. If every arthropod eventually evolves into a crab; will every con-artist eventually evolve into something a lot like Simon Goldberg?
+Link 1 (Intro): In the last episode, we briefly met Simon Goldberg—also known, somewhat inexplicably, as The Spaniard. He was the one interviewing Sovereign Pete, effortlessly making Pete look like a complete imbecile. And while it might be tempting to think Simon was just doing a public service—exposing Pete’s nonsense with a calm, rational voice - after watching today's video your impression of Simon might change. 
+
+Mine certainly did. 
+
+Simon Goldberg is, in my opinion, one of the most shamelessly dishonest people I’ve ever studied online. If Sacha Stone is the spiritual con-man, Simon could be his financial twin—except, of course, Sacha Stone is also his own financial twin, so maybe we’ve discovered some kind of grifter covergent evolution. If every arthropod eventually evolves into a crab; will every con-artist eventually evolve into something a lot like Simon Goldberg?
 
 And before we start; and because Simon is famously a litigious man - everything in this video is 'just my opinion'
 
 -- Ricard Vobes "my opinion" montage
 
-But unlike Richard Vobes, whose opinions are founded on nothing; Mine is informed by the videos that Simon Goldberg has published on his own YouTube channel, 'White Rabbit Trust', and documents leaked from former members of his financial cult, 'You and Your Cash'. Having spent hours watching through these rather tedious videos, I saw a man who claims to be an expert in the financial system, but is clearly pushing a set of wildly wrong, long discredited ideas. I see him pushing emotional buttons, and pushing misleading ideas.
+But unlike Richard Vobes, whose opinions are founded on nothing; Mine is informed by the videos that Simon Goldberg has published on his own YouTube channel, 'White Rabbit Trust', and documents leaked from former members of his financial cult, 'You and Your Cash'. Having spent hours watching through his rather tedious videos, I saw a man who claims to be an expert in the financial system, but is clearly pushing a set of wildly wrong, long-discredited ideas. I see him pushing emotional buttons, stoking outrage, and I don't see a lot of difference between somebody like Sovereign Pete and Simon.
 
-I don't think Simon is an idiot, so my impression is that all of this is on purpose. There's a method to this apparent madness, and that probably has something to do with how he makes his money:
-
-So what exactly makes Simon Goldberg's ideas so awful? Let’s start with how he likes to 'red-pill' people on the Internet:
+So why do I think Simon Goldberg is so awful? Let’s start with how he likes to 'red-pill' people on the Internet:
 
  > Clip 01 - Simon Goldberg: this is a promise to pay money, right? A promise to pay money. Therefore, it cannot be money, correct? It's a promise to pay money. And we call this cash,
  
- Link 2: You've seen this grift before—the idea that a British banknote, a piece of printed currency, is actually a promissory note. That the little line saying "I promise to pay the bearer on demand" somehow unlocks a secret legal truth. 
- 
-It doesn’t. It never has—at least not since Britain left the gold standard in the 1960s. Bank notes aren't promissory notes - but if you can make people believe they are, then you can work a classic long-con, like Simon Goldberg does in this video.
- 
- This is a con that thrives on confusion, and it’s been wheeled out by many of the repeat offenders on this show—Richard Vobes among them. But for Simon Goldberg, this sort of bad financial advice isn’t just a hobby—it’s a business model.
- 
- He runs an organisation called *You and Your Cash*, which charges people up to £1,500 a year for the privilege of fed nonsense.
- 
-In return, members are promised secret knowledge about how to claw back tax payments from the government—via bogus "1099 OID" forms that have been roundly debunked by actual tax authorities. The scheme is wrapped in the language of exclusive access, contractual obligation, and pseudolegal intimidation—all of which Simon Goldberg insists must remain confidential.
+Link 2: You've  heard this one before—the tired old claim that a British banknote is actually a promissory note, and that means it's not real money. Simon Goldberg parrots this nonsense too, suggesting that a banknote's promise “to pay the bearer on demand” somehow proves that it isn’t actually money. Financial charlatans often make this kind of claim, but it's by no means the weirdest item on Simon's bizarre tasting menu of financial conspiracies:
+
+Simon Goldberg runs a private membership scheme called You and Your Cash. For a tidy annual sum—up to £1,500 for the Bronze package—Simon offers to help members recover money they supposedly overpaid to the United States Internal Revenue Service. Yes, you heard that correctly: British citizens being promised a refund from the IRS. The scheme revolves around filing a U.S. tax document called a 1099-OID, a form designed for American residents who’ve received taxable interest income from original issue discounts. In the conspiracy theory version, these forms are the means to reclaim thousands in secret government payouts.
+
+But here’s the obvious problem: British citizens don't pay tax to the IRS. They don’t file 1099s. They have no taxpayer identification number, no U.S. income, and no legal basis to file such claims. The notion that the IRS would be sending out cheques to UK residents based on forged paperwork is not just wrong—it’s potentially criminal. Filing false tax documents with the IRS is fraud, and even if someone were naïve enough to try it, the outcome wouldn’t be riches. It would be a big red flag on a database in Washington D.C.
+
+What Simon is really selling here isn’t a service. It’s a dangerous fiction. The contractual documents leaked from his group show a tangled mess of conditions, disclaimers, secrecy clauses, and penalties for breaking the code of silence. This is not how legitimate financial services operate. It's how grifters build traps: create a system full of obfuscation, dangle the prospect of easy money, and watch desperate people walk right in.
 
  > Clip 02 - Simon Goldberg: Now, if a promise to pay money is cash, and is treated as cash, on the books of the bank, right? Have a think about when you signed a loan agreement, Do you promise to pay money? Yes or no?
  
-Link 3: Frequent viewers of this show will already recognise this flim-flam. It’s the idea that a signed loan agreement magically becomes a negotiable instrument—essentially, that it turns into money the moment your pen hits the page. We’ve heard this nonsense before, not just from Simon Goldberg, but from Richard Vobes and a revolving door of his YouTube guests.
- 
+Link 3: Frequent viewers of this show will already recognise this flim-flam. It’s the idea that a signed loan agreement magically becomes money the moment your pen hits the page. We've heard this nonsense before, not just from Simon Goldberg, but from Richard Vobes and a revolving door of his YouTube guests.
+
 But here's the difference: Richard Vobes plays nicely with others—he promotes his fellow grifters and participates in the circle-jerk echo-chamber that is UK conspiracy scene. 
 
-Simon Goldberg, takes a very different tack. His grift involves attacking his peers. He ridicules them, exposes their contradictions, and builds himself up as the one man smart enough to see through it all.
+Simon Goldberg's strategy involves attacking his peers. He ridicules them, exposes their contradictions. He calls them charlatans, which of couse they are. And in doing so, he promotes himself as the only financial visionary who can see through it all. 
 
-And he does it for a simple reason: grifting is a zero-sum game. If one of his rivals extracts a pound from a gullible mark, that's a pound Simon doesn't get. So there's no incentive for him to play nice. Instead, by tearing down the competition and cultivating an air of superiority, he positions himself as the one conspiracy theorist who’s actually telling the truth—and all the desperate nitwits looking to offload their cash will flock to him instead.
+He probably is smarter than them, I mean just look at Sovereign Pete, it's not exactly a high bar, is it?
 
-The irony, of course, is that there's nothing original here. He’s just found a different way package an old conspiracy theory.
+-- Pete Stone, Maritime law clip
+
+But why be mean to sov-cit whackaloons like Pete? 
+
+I think this is just business. If Pete takes a pound from a gullible victim, that's a pound Simon cannot earn through his schemes. Instead, by tearing down the competition and cultivating an air of superiority, he positions himself as the Mr Big Balls of the conspiracy world. People will think he's the only one telling the truth. Desperate nitwits looking to offload their cash will flock to Simon and not Pete.
+
+The irony, of course, is that there's nothing original here. He’s just found a different way package an old conspiracy theory. Simon and Pete tell essentially the same story. 
 
  > Clip 03 - Simon Goldberg: Now, I know the answer is yes. You do promise to pay money, what does it become the moment you sign it? What is it treated as? It's treated as cash,
 
-Link 4: Simon’s magic trick depends on you believing something truly impossible. Much like the Catholic doctrine of transubstantiation—where a wafer becomes the literal flesh of a Crucified deity. Simon wants us to accept that the moment you sign a loan agreement, it transforms that piece of paper into something more powerful than a legal contract: actual cash.
+Link 4: Simon’s magic trick depends on you believing something truly impossible. Much like the Catholic doctrine of transubstantiation—where a wafer becomes the literal flesh of a crucified deity. Simon wants us to accept that the moment you sign a loan agreement, it transforms that piece of paper into money - it's a miracle!
 
-But a signed loan agreement isn’t cash. Not remotely. Cash is universal—legal tender you can use to buy groceries, pay your rent, or shove into a vending machine in exchange for a bag of Hula-Hoops. It’s anonymous, immediate, and doesn't require mutual consent to transfer. A contract, by contrast, has none of those properties. You can’t whip out a loan agreement at a petrol station and expect to pay for fuel. You can’t use it to pay your council tax. You can’t settle your bill at Nando’s by pulling a folded agreement from your wallet and saying, “Don’t worry, I got this one.”
+-- it's a miracle clip
 
-Simon Goldberg's grift hinges on the idea that contracts become money—fungible, bankable, spendable. 
+But a signed loan agreement isn’t cash. Not remotely. Cash is universal—legal tender you can use to buy groceries, pay your rent, or shove into a vending machine in exchange for a bag of Hula-Hoops. It’s anonymous, immediate, and doesn't require mutual consent to transfer. A contract, by contrast, has none of those properties. You can’t whip out a loan agreement at a petrol station and expect to pay for a tank of E10. You can’t use it to pay your council tax. You can’t settle your round at the pub by an agreement from your wallet and saying, “Don’t worry, I got this one.”
 
 Simon Goldberg's grift is built on the bizarre fantasy that anyone can conjure money into existence simply by scribbling their name on a piece of paper. He seems genuinely convinced that this is how money creation works—but of course, it isn't. The entire premise requires you to believe that banks, governments, and financial systems have somehow overlooked the incredible secret power of your biro.
 
@@ -140,16 +147,13 @@ This is just another of Simon’s vividly imagined fictions—packaged with the 
 
 > Clip 16 - Simon Goldberg:  I know my peers will always kind of come out with this comment, but please, please, please go do your own research. Please attempt to prove this wrong. All right? If I've got anything wrong, please let me know. Okay?
 
-Link 17 (Outro): Simon Goldberg ends his video with a plea: “If I’m wrong, let me know.” But let’s be honest—does anyone believe he’s genuinely interested in being corrected? Simon doesn’t strike me as someone who invites feedback, unless it’s of the adoring, wallet-opening variety. He’s not wrong by accident—he’s wrong on purpose, because being wrong pays. And he knows it.
+Link 17 (Outro): I wonder if Simon really wants to be told that he got a few of his quite fundamental details wrong? My instinct is that this is just posturing and Simon probably doesn't have time for any kind of disagreement. He doesn't strike me as a man whose main virtue is paitience.
  
-This is the grift. Financial nonsense packaged with just enough pseudolegal seasoning to make it feel dangerous and clever. Like Mark Steele selling 5G fear or flat‐earth YouTubers retailing cosmic secrets, Simon Goldberg dispenses anti‐wisdom. 
+But perhaps I'm wring. Perhaps this isn't a grift. Maybe this isn't financial nonsense packaged with just enough technobabble seem like an episode of TNG where Pickard and Data withdraw their life-savings to buy a proissory note. Perhaps it's me who has foolishly confused solid-gold 'take it to the bank' truth, whith the kind of scammy anti-wisdom promoted by sov-cits and flerfs.
 
-This bad advice is the teaser that sells the worse advice. The bait is the worm; the hook is £1,500 and a direct debit.
- 
-And the real kicker? If you join his inner circle, you’re not allowed to talk about what he teaches. That’s not just culty—that’s functional. Because if anyone discussed this stuff in the open, it would unravel faster than a suitcase in a jet engine. The secrecy isn’t a feature of some sacred knowledge; it’s a firewall against common sense.
- 
-Simon Goldberg is not here to educate. He’s not lifting burdens or revealing suppressed truths. He’s here to profit from miseducation. Follow his advice and you won’t become free—you’ll become poorer, more indebted, and possibly in legal trouble. And that’s why he’s not just wrong. He’s toxic.
+So, Simon, If I've got anything wrog, please let me know Okay?
 
-Financial markets aren't inherently unfair and exploitative - but they can seem that way because they're complicated. Financial literacy is tough to acquire, requiring effort and critical thinking. For every person genuinely trying to demystify finance and advocate for fairness, there are grifters like Simon Goldberg who thrive on ignorance, extracting profit from confusion. People who confidently present nonsense as if it were knowledge.
+Financial markets aren't inherently unfair and exploitative - but they can seem that way because they're complicated. Financial literacy is tough to acquire, requiring effort and critical thinking. You can spend a lifetime studing how financial markets work, and still find yourself learning new things every day. 
 
-If you're frustrated by the financial system and its inequities, the solution lies in supporting political movements and candidates who challenge oligarchic interests and systemic inequality—not in trusting scammers like Simon Goldberg, whose promises lead not to wealth, but to ruin.
+We won't ever know what's going on in Simon's head, but I can't help wondering if Simon really believes the things he said. According to his own claimed life history, worked as a branch manager for a series of banks and then a mortgage company. In other words, making loans was a big part of his business for most of his life. Is it likely that such a person really thinks that loan agreements are equivalent in value to actual currency? The training he would have received at those banks would have told him otherwise.
+
